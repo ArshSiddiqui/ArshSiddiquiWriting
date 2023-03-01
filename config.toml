@@ -1,0 +1,20 @@
+baseURL = "https://arshsiddiqui.github.io/writing/"
+languageCode = "en-us"
+title = "Arsh Siddiqui"
+theme = 'hugo-book'
+
+[languages]
+[languages.en]
+	languageName = 'English'
+	contentDir = 'content.en'
+	weight = 1
+	
+[languages.fr]
+	languageName = 'French'
+	contentDir = 'content.fr'
+	weight = 2
+
+[params]
+	BookTheme = 'auto'
+	BookMenuBundle = '/menu'
+	BookDateFormat = 'Jan 2, 2006'

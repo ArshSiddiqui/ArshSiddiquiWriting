@@ -1,0 +1,7 @@
+baseURL: http://arshsiddiqui.github.io
+title: Arsh Siddiqui
+theme: hugo-book
+
+params:
+    BookTheme: "auto"
+    BookMenuBundle: /menu
