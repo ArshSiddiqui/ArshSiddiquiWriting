@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Headline Sentiment#Due to the prevalence of the internet in our day to day lives, we often tend to read and view news articles in a manner different than we used to. Traditional news journalism was read or recieved through newspapers or some other form of once-daily edification. Now we no longer seek this form of keeping up to date with what is going on in the world, rather we tend to find information and news through articles online.">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Headline Sentiment" />
+<meta property="og:description" content="Headline Sentiment#Due to the prevalence of the internet in our day to day lives, we often tend to read and view news articles in a manner different than we used to. Traditional news journalism was read or recieved through newspapers or some other form of once-daily edification. Now we no longer seek this form of keeping up to date with what is going on in the world, rather we tend to find information and news through articles online." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://arshsiddiqui.github.io/writing/technical/headlinesentiment/" /><meta property="article:section" content="technical" />
+
+
+<title>Headline Sentiment | Arsh Siddiqui</title>
+<link rel="manifest" href="/writing/manifest.json">
+<link rel="icon" href="/writing/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/writing/book.min.b3488045b94246c08cb956e8a82d99944a7cbd581bf976a700e281bbb73b1a07.css" integrity="sha256-s0iARblCRsCMuVboqC2ZlEp8vVgb&#43;XanAOKBu7c7Ggc=" crossorigin="anonymous">
+  <script defer src="/writing/flexsearch.min.js"></script>
+  <script defer src="/writing/en.search.min.14c1566bf00552efc72dc423d0c071b93df70fbb036efc51bda163802ae688cb.js" integrity="sha256-FMFWa/AFUu/HLcQj0MBxuT33D7sDbvxRvaFjgCrmiMs=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/writing/"><span>Arsh Siddiqui</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+
+<ul class="book-languages">
+  <li>
+    <input type="checkbox" id="languages" class="toggle" />
+    <label for="languages" class="flex justify-between">
+      <a role="button" class="flex align-center">
+        <img src="/writing/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </label>
+
+    <ul>
+      
+      <li>
+        <a href="https://arshsiddiqui.github.io/writing/fr/">
+          French
+        </a>
+      </li>
+      
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/writing/technical/">Technical</a></li>
+<li><a href="/writing/poetry/">Poetry</a></li>
+<li><a href="/writing/bookreviews/">Book Reviews</a></li>
+<li><a href="/writing/oldwriting/">Old Writing</a></li>
+<li><a href="/writing/others/">Others</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/writing/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Headline Sentiment</strong>
+
+  <label for="toc-control">
+    
+    <img src="/writing/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents"></nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="headline-sentiment">
+  Headline Sentiment
+  <a class="anchor" href="#headline-sentiment">#</a>
+</h1>
+<p>Due to the prevalence of the internet in our day to day lives, we often tend to read and
+view news articles in a manner different than we used to. Traditional news journalism was
+read or recieved through newspapers or some other form of once-daily edification. Now we
+no longer seek this form of keeping up to date with what is going on in the world, rather
+we tend to find information and news through articles online. Now, rather than articles
+being selected for users based upon their relevance and importance, these articles and
+authors need to find a way to make the user more likely to click on and read their writing.
+Many of these articles have maintained journalistic integrity in keeping with some set of
+standards, whereas some have tended towards other means of gaining user interest.</p>
+<p>Many make the claim online that some of the articles use strong emotions to make users
+more interested in the information therein. Either articles can have headlines that are
+very positive (happy inducing, perhaps) or negative (anger or sadness inducing, maybe).</p>
+<p>Based upon these claims, I was curious to see if I could potentially look at the headlines
+of many different news agencies and see if I could determine how much emotion was being
+utilized therein. I found that quite a majority of the articles that I had looked at were
+still fairly neutral, though there will still many an occasion of strong emotion persent.</p>
+<p>To analyze emotions in text, I used vader sentiment analysis, and used the compound score
+it gave for each article (which is on a scale of -1 to 0 to 1, with -1 being the most
+negative emotionally, and 1 being the most positive emotionally) to create graphs for a
+number of news agencies on how they have utilized emotions in their headlines over time.</p>
+<p>I was also able to calculate the average compound sentiment score for each news agency.
+Interestingly, all of them skewed positive. While there were many articles that were both
+very positive and very negitive from all of the groups, the overall skew was still positive.
+However, most of the articles in every agency was neutral and very close to a score of 0.</p>
+<p>There are some very important notes to make about the scores that I have, however, they are
+not tremendously accurate. Let&rsquo;s consider a news agency with three articles, each of which
+have a compound score of 0. Its average score then is a 0, and this is accurately reflected
+in its articles. What if it has three articles with scores of -1, 0, and 1? Then the average
+score would still be 0, but clearly they put out more emotionally charged (and perhaps
+divisive) articles. This bias, along with a lot more that I probably have not realized
+or accounted for, are likely to be prevalent in my scores.</p>
+<p>Below, you will see a table with all of average scores, both compound, positive, and negative
+scores for each agency.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Agency</th>
+<th style="text-align:right">Compound</th>
+<th style="text-align:right">Positive</th>
+<th style="text-align:right">Negative</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">The New York Times</td>
+<td style="text-align:right">0.0261689</td>
+<td style="text-align:right">0.0192063</td>
+<td style="text-align:right">0.0046609</td>
+</tr>
+<tr>
+<td style="text-align:left">Breitbart</td>
+<td style="text-align:right">0.02408299</td>
+<td style="text-align:right">0.02090032</td>
+<td style="text-align:right">0.00665240</td>
+</tr>
+<tr>
+<td style="text-align:left">CNN</td>
+<td style="text-align:right">0.03414162</td>
+<td style="text-align:right">0.02843440</td>
+<td style="text-align:right">0.00503824</td>
+</tr>
+<tr>
+<td style="text-align:left">Business Insider</td>
+<td style="text-align:right">0.06110852</td>
+<td style="text-align:right">0.03306334</td>
+<td style="text-align:right">0.00388264</td>
+</tr>
+<tr>
+<td style="text-align:left">The Atlantic</td>
+<td style="text-align:right">0.02058144</td>
+<td style="text-align:right">0.01716854</td>
+<td style="text-align:right">0.00356693</td>
+</tr>
+<tr>
+<td style="text-align:left">Fox News</td>
+<td style="text-align:right">0.04760875</td>
+<td style="text-align:right">0.03312206</td>
+<td style="text-align:right">0.00710000</td>
+</tr>
+<tr>
+<td style="text-align:left">Buzzfeed</td>
+<td style="text-align:right">0.03076971</td>
+<td style="text-align:right">0.02058508</td>
+<td style="text-align:right">0.00535929</td>
+</tr>
+<tr>
+<td style="text-align:left">The National Review</td>
+<td style="text-align:right">0.01993751</td>
+<td style="text-align:right">0.01858704</td>
+<td style="text-align:right">0.00496947</td>
+</tr>
+<tr>
+<td style="text-align:left">The New York Post</td>
+<td style="text-align:right">0.05131073</td>
+<td style="text-align:right">0.03820476</td>
+<td style="text-align:right">0.00518698</td>
+</tr>
+<tr>
+<td style="text-align:left">NPR</td>
+<td style="text-align:right">0.02992590</td>
+<td style="text-align:right">0.02032171</td>
+<td style="text-align:right">0.00449541</td>
+</tr>
+<tr>
+<td style="text-align:left">Vox</td>
+<td style="text-align:right">0.04143098</td>
+<td style="text-align:right">0.02530119</td>
+<td style="text-align:right">0.00403961</td>
+</tr>
+<tr>
+<td style="text-align:left">The Washington Post</td>
+<td style="text-align:right">0.03914736</td>
+<td style="text-align:right">0.02508142</td>
+<td style="text-align:right">0.00426336</td>
+</tr>
+<tr>
+<td style="text-align:left">Talking Points Memo</td>
+<td style="text-align:right">0.02116882</td>
+<td style="text-align:right">0.01664933</td>
+<td style="text-align:right">0.00484788</td>
+</tr>
+<tr>
+<td style="text-align:left">The Guardian</td>
+<td style="text-align:right">0.04446168</td>
+<td style="text-align:right">0.03017346</td>
+<td style="text-align:right">0.00564048</td>
+</tr>
+<tr>
+<td style="text-align:left">Reuters</td>
+<td style="text-align:right">0.05193949</td>
+<td style="text-align:right">0.03652189</td>
+<td style="text-align:right">0.00503184</td>
+</tr>
+</tbody>
+</table>
+<p>From this table above, one can see that much of the data is fairly neutral in terms of emotion
+sparked. However, that is all simply based on one sentiment analysis model, only modern-ish
+articles, and without any data cleaning done. The only outstanding individuals are Reuters,
+Business Insider, Fox News, and the New York Post using more positive emotion generating
+headlines than others. On the other hand, we also see Fox News using the most negative emotion
+generating headlines (followed by Buzzfeed and The Guardian).</p>
+<p>I had also graphed some of these agencies with their data across time, and also created
+something of a line of best fit to track the average compound sentiment score over time.</p>
+<p>These can be seen below.</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

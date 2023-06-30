@@ -12,6 +12,9 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2023
 ___
+[The Overcoat and Other Short Stories](/writing/bookreviews/theovercoat/)
+
+[A Farewell to Arms](/writing/bookreviews/afarewelltoarms/)
 
 [The Forest](/writing/bookreviews/theforest/)
 
