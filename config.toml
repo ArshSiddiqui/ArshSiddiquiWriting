@@ -1,4 +1,4 @@
-baseURL = "https://arshsiddiqui.github.io/writing/"
+baseURL = "https://testwriting.pages.dev/"
 languageCode = "en-us"
 title = "Arsh Siddiqui"
 theme = 'hugo-book'
