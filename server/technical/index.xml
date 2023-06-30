@@ -1,50 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Technical on Arsh Siddiqui</title>
-    <link>https://arshsiddiqui.github.io/writing/technical/</link>
-    <description>Recent content in Technical on Arsh Siddiqui</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://arshsiddiqui.github.io/writing/technical/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Generated Poe-try</title>
-      <link>https://arshsiddiqui.github.io/writing/technical/generatedpoe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/technical/generatedpoe/</guid>
-      <description>Edgar Allen Poe-try#the day broke it
-so strong and a willingness
-to let it atone
-I have been interested in language modeling for a while, and I have done many projects in that realm in the past. Firstly, langauge modeling is the use of a technique to determine the probablility of a sentence occuring with the words in it in that order. It is frequently used to create computer algorithms that will create intelligible sentences based upon some text corpus.</description>
-    </item>
-    
-    <item>
-      <title>Headline Sentiment</title>
-      <link>https://arshsiddiqui.github.io/writing/technical/headlinesentiment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/technical/headlinesentiment/</guid>
-      <description>Headline Sentiment#Due to the prevalence of the internet in our day to day lives, we often tend to read and view news articles in a manner different than we used to. Traditional news journalism was read or recieved through newspapers or some other form of once-daily edification. Now we no longer seek this form of keeping up to date with what is going on in the world, rather we tend to find information and news through articles online.</description>
-    </item>
-    
-    <item>
-      <title>Monopoly Frequency</title>
-      <link>https://arshsiddiqui.github.io/writing/technical/monopolyfreq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/technical/monopolyfreq/</guid>
-      <description>What squares are landed on the most in Monopoly?#I am pretty bad at Monopoly myself, and I had been lately learning more about how to improve my game. One interesting consideration to have when it comes to playing Monopoly is to consider which squares are landed upon the most. I typically spend my games trying to purchase squares near the end of the board, because if anybody lands on them I get a higher payout, but is that mentality necessarily true?</description>
-    </item>
-    
-    <item>
-      <title>Stock Analysis</title>
-      <link>https://arshsiddiqui.github.io/writing/technical/stockanalysis/stockanalysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arshsiddiqui.github.io/writing/technical/stockanalysis/stockanalysis/</guid>
-      <description>Stock Analysis#Given the ubiquity of the financial market in our day to day lives, and with my personal interest in stocks I figured that now would be as good of a time as any to learn how to analyze stocks with code.
-Given its current ubiquity in the field and with its abundance of libraries that would make learning more about this field, I elected to proceed with Python.</description>
-    </item>
-    
-  </channel>
-</rss>
