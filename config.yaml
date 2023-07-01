@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL: https://arshsiddiquitestwriting.onrender.com
+=======
+baseURL: https://testwriting.pages.dev/
+>>>>>>> parent of 2c01972 (Really adding everything)
 title: Arsh Siddiqui
 theme: hugo-book
 

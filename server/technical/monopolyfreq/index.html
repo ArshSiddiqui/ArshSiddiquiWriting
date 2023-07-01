@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="What squares are landed on the most in Monopoly?#I am pretty bad at Monopoly myself, and I had been lately learning more about how to improve my game. One interesting consideration to have when it comes to playing Monopoly is to consider which squares are landed upon the most. I typically spend my games trying to purchase squares near the end of the board, because if anybody lands on them I get a higher payout, but is that mentality necessarily true?">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Monopoly Frequency" />
+<meta property="og:description" content="What squares are landed on the most in Monopoly?#I am pretty bad at Monopoly myself, and I had been lately learning more about how to improve my game. One interesting consideration to have when it comes to playing Monopoly is to consider which squares are landed upon the most. I typically spend my games trying to purchase squares near the end of the board, because if anybody lands on them I get a higher payout, but is that mentality necessarily true?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://arshsiddiqui.github.io/writing/technical/monopolyfreq/" /><meta property="article:section" content="technical" />
+
+
+<title>Monopoly Frequency | Arsh Siddiqui</title>
+<link rel="manifest" href="/writing/manifest.json">
+<link rel="icon" href="/writing/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/writing/book.min.b3488045b94246c08cb956e8a82d99944a7cbd581bf976a700e281bbb73b1a07.css" integrity="sha256-s0iARblCRsCMuVboqC2ZlEp8vVgb&#43;XanAOKBu7c7Ggc=" crossorigin="anonymous">
+  <script defer src="/writing/flexsearch.min.js"></script>
+  <script defer src="/writing/en.search.min.14c1566bf00552efc72dc423d0c071b93df70fbb036efc51bda163802ae688cb.js" integrity="sha256-FMFWa/AFUu/HLcQj0MBxuT33D7sDbvxRvaFjgCrmiMs=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/writing/"><span>Arsh Siddiqui</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+
+<ul class="book-languages">
+  <li>
+    <input type="checkbox" id="languages" class="toggle" />
+    <label for="languages" class="flex justify-between">
+      <a role="button" class="flex align-center">
+        <img src="/writing/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </label>
+
+    <ul>
+      
+      <li>
+        <a href="https://arshsiddiqui.github.io/writing/fr/">
+          French
+        </a>
+      </li>
+      
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/writing/technical/">Technical</a></li>
+<li><a href="/writing/poetry/">Poetry</a></li>
+<li><a href="/writing/bookreviews/">Book Reviews</a></li>
+<li><a href="/writing/oldwriting/">Old Writing</a></li>
+<li><a href="/writing/others/">Others</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/writing/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Monopoly Frequency</strong>
+
+  <label for="toc-control">
+    
+    <img src="/writing/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents"></nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="what-squares-are-landed-on-the-most-in-monopoly">
+  What squares are landed on the most in Monopoly?
+  <a class="anchor" href="#what-squares-are-landed-on-the-most-in-monopoly">#</a>
+</h1>
+<p>I am pretty bad at Monopoly myself, and I had been lately learning more about how to improve my game.
+One interesting consideration to have when it comes to playing Monopoly is to consider which squares
+are landed upon the most. I typically spend my games trying to purchase squares near the end of the
+board, because if anybody lands on them I get a higher payout, but is that mentality necessarily true?</p>
+<p>As it turns out, no.</p>
+<p>We might imagine that as we roll the die, there would be an even spread of chance for landing on any
+particular square on the board. This would be true if we never had external forces moving us around
+the board and if we were only following the whim of the die.</p>
+<p>Consider that if we roll doubles thrice, we go to jail, and there are special cards and circumstances
+that would send us back to the beginning of the board. This leads us to having a skew to the home
+position and to the jail location. Considering these pieces of information, upon exiting them with
+another role of the die, we may find a lot of our locations clustered around the following spots on
+the board.</p>
+<p>Knowing this information, we can then create a Python script that contains knowledge of all of the
+positions on the board and of all of the chance and community chest cards to effectively play the
+game some number of times counting up each spot we land on to determine which spots are landed upon
+the most frequently.</p>
+<p>The following are the results that I have attained from the code:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Square</th>
+<th style="text-align:right">Probability of Landing</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Jail / Just Visiting</td>
+<td style="text-align:right">6.7%</td>
+</tr>
+<tr>
+<td style="text-align:left">Go</td>
+<td style="text-align:right">3.11%</td>
+</tr>
+<tr>
+<td style="text-align:left">Reading Railroad</td>
+<td style="text-align:right">2.88%</td>
+</tr>
+<tr>
+<td style="text-align:left">Illinois Avenue</td>
+<td style="text-align:right">2.82%</td>
+</tr>
+<tr>
+<td style="text-align:left">St. Charles Place</td>
+<td style="text-align:right">2.73%</td>
+</tr>
+<tr>
+<td style="text-align:left">Boardwalk</td>
+<td style="text-align:right">2.7%</td>
+</tr>
+<tr>
+<td style="text-align:left">Short Line</td>
+<td style="text-align:right">2.65%</td>
+</tr>
+<tr>
+<td style="text-align:left">New York Avenue</td>
+<td style="text-align:right">2.6%</td>
+</tr>
+<tr>
+<td style="text-align:left">Water Works</td>
+<td style="text-align:right">2.54%</td>
+</tr>
+<tr>
+<td style="text-align:left">Tennessee Avenue</td>
+<td style="text-align:right">2.47%</td>
+</tr>
+<tr>
+<td style="text-align:left">Free Parking</td>
+<td style="text-align:right">2.45%</td>
+</tr>
+<tr>
+<td style="text-align:left">Community Chest</td>
+<td style="text-align:right">2.44%</td>
+</tr>
+<tr>
+<td style="text-align:left">Community Chest - 2</td>
+<td style="text-align:right">2.43%</td>
+</tr>
+<tr>
+<td style="text-align:left">St. James Place</td>
+<td style="text-align:right">2.39%</td>
+</tr>
+<tr>
+<td style="text-align:left">Electric Company</td>
+<td style="text-align:right">2.39%</td>
+</tr>
+<tr>
+<td style="text-align:left">Kentucky Avenue</td>
+<td style="text-align:right">2.39%</td>
+</tr>
+<tr>
+<td style="text-align:left">Chance</td>
+<td style="text-align:right">2.38%</td>
+</tr>
+<tr>
+<td style="text-align:left">Chance - 2</td>
+<td style="text-align:right">2.35%</td>
+</tr>
+<tr>
+<td style="text-align:left">Income Tax</td>
+<td style="text-align:right">2.35%</td>
+</tr>
+<tr>
+<td style="text-align:left">Vermont Avenue</td>
+<td style="text-align:right">2.35%</td>
+</tr>
+<tr>
+<td style="text-align:left">Pennsylvania Railroad</td>
+<td style="text-align:right">2.34%</td>
+</tr>
+<tr>
+<td style="text-align:left">Indiana Avenue</td>
+<td style="text-align:right">2.33%</td>
+</tr>
+<tr>
+<td style="text-align:left">Connecticut Avenue</td>
+<td style="text-align:right">2.3%</td>
+</tr>
+<tr>
+<td style="text-align:left">Chance - 3</td>
+<td style="text-align:right">2.29%</td>
+</tr>
+<tr>
+<td style="text-align:left">Oriental Avenue</td>
+<td style="text-align:right">2.29%</td>
+</tr>
+<tr>
+<td style="text-align:left">B. &amp; O. Railroad</td>
+<td style="text-align:right">2.29%</td>
+</tr>
+<tr>
+<td style="text-align:left">Atlantic Avenue</td>
+<td style="text-align:right">2.28%</td>
+</tr>
+<tr>
+<td style="text-align:left">Pennsylvania Avenue</td>
+<td style="text-align:right">2.27%</td>
+</tr>
+<tr>
+<td style="text-align:left">Park Place</td>
+<td style="text-align:right">2.26%</td>
+</tr>
+<tr>
+<td style="text-align:left">North Carolina Avenue</td>
+<td style="text-align:right">2.26%</td>
+</tr>
+<tr>
+<td style="text-align:left">Pacific Avenue</td>
+<td style="text-align:right">2.26%</td>
+</tr>
+<tr>
+<td style="text-align:left">Virginia Avenue</td>
+<td style="text-align:right">2.24%</td>
+</tr>
+<tr>
+<td style="text-align:left">Luxury Tax</td>
+<td style="text-align:right">2.23%</td>
+</tr>
+<tr>
+<td style="text-align:left">Ventnor Avenue</td>
+<td style="text-align:right">2.23%</td>
+</tr>
+<tr>
+<td style="text-align:left">Go To Jail</td>
+<td style="text-align:right">2.22%</td>
+</tr>
+<tr>
+<td style="text-align:left">States Avenue</td>
+<td style="text-align:right">2.2%</td>
+</tr>
+<tr>
+<td style="text-align:left">Marvin Gardens</td>
+<td style="text-align:right">2.18%</td>
+</tr>
+<tr>
+<td style="text-align:left">Community Chest - 3</td>
+<td style="text-align:right">2.15%</td>
+</tr>
+<tr>
+<td style="text-align:left">Mediterranean Avenue</td>
+<td style="text-align:right">2.14%</td>
+</tr>
+<tr>
+<td style="text-align:left">Baltic Avenue</td>
+<td style="text-align:right">2.12%</td>
+</tr>
+</tbody>
+</table>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
