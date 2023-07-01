@@ -13,40 +13,40 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ## 2023
 ___
 
-[The Forest](/writing/bookreviews/theforest/)
+[The Forest](/bookreviews/theforest/)
 
-[New York Stories](/writing/bookreviews/newyorkstories/)
+[New York Stories](/bookreviews/newyorkstories/)
 
 ## 2022
 ___
-[Victory](/writing/bookreviews/victory/)
+[Victory](/bookreviews/victory/)
 
-[The Elegance of the Hedgehog](/writing/bookreviews/theeleganceofthehedgehog/)
+[The Elegance of the Hedgehog](/bookreviews/theeleganceofthehedgehog/)
 
-[The Man Who Died Twice](/writing/bookreviews/themanwhodiedtwice/)
+[The Man Who Died Twice](/bookreviews/themanwhodiedtwice/)
 
-[Utopia](/writing/bookreviews/utopia/)
+[Utopia](/bookreviews/utopia/)
 
-[Paris](/writing/bookreviews/paris/)
+[Paris](/bookreviews/paris/)
 
-[Death of a Salesman](/writing/bookreviews/deathofasalesman/)
+[Death of a Salesman](/bookreviews/deathofasalesman/)
 
-[Romeo and Julliet](/writing/bookreviews/romeoandjulliet/)
+[Romeo and Julliet](/bookreviews/romeoandjulliet/)
 
-[The Mayor of Casterbridge](/writing/bookreviews/themayorofcasterbridge/)
+[The Mayor of Casterbridge](/bookreviews/themayorofcasterbridge/)
 
-[Tell Them of Battles, Kings and Elephants](/writing/bookreviews/tellthemofbattleskingsandelephants/)
+[Tell Them of Battles, Kings and Elephants](/bookreviews/tellthemofbattleskingsandelephants/)
 
-[The Shadow of the Wind](/writing/bookreviews/theshadowofthewind/)
+[The Shadow of the Wind](/bookreviews/theshadowofthewind/)
 
 ## 2021
 ___
 
-[Poems of Rome](/writing/bookreviews/poemsofrome/)
+[Poems of Rome](/bookreviews/poemsofrome/)
 
-[Murder on the Orient Express](/writing/bookreviews/murderontheorientexpress/)
+[Murder on the Orient Express](/bookreviews/murderontheorientexpress/)
 
-[A Tale of Two Cities](/writing/bookreviews/ataleoftwocities/)
+[A Tale of Two Cities](/bookreviews/ataleoftwocities/)
 
-[The Count of Monte Cristo](/writing/bookreviews/thecountofmontecristo/)
+[The Count of Monte Cristo](/bookreviews/thecountofmontecristo/)
 

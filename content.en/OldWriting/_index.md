@@ -9,4 +9,4 @@ Work that is absolutely of middling quality.
 
 &nbsp;  
 
-[Real Programmers Use Gmail](/writing/oldwriting/realprogrammersusegmail/)
+[Real Programmers Use Gmail](/oldwriting/realprogrammersusegmail/)

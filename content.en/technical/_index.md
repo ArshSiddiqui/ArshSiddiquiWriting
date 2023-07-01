@@ -10,4 +10,4 @@ interests therein.
 
 &nbsp;  
 
-[Stock Analysis](/writing/technical/stockanalysis/stockanalysis/)
+[Stock Analysis](/technical/stockanalysis/stockanalysis/)

@@ -13,4 +13,4 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 ## 2023
 ___
 
-[La Forêt des Rois](/writing/fr/bookreviews/theforest/)
+[La Forêt des Rois](/fr/bookreviews/theforest/)

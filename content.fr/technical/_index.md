@@ -10,4 +10,4 @@ intérêts dans ce domain.
 
 &nbsp;  
 
-[Analyse des Actions](/writing/technical/stockanalysis/stockanalysis/)
+[Analyse des Actions](/technical/stockanalysis/stockanalysis/)
