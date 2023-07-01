@@ -12,7 +12,7 @@ weight: 10
 
 4.5/5
 
-Je n'ai ly qu'un seul autre romain par Edward Rutherfur, "Paris", qui est devenu un de me livres préférés et un que je lis
+Je n'ai lu qu'un seul autre romain par Edward Rutherfur, "Paris", qui est devenu un de me livres préférés et un que je lis
 souvent. J'ai acheté cette romain il y a longtemps, mais je ne l'ai pas terminé la première fois. Donner un autre chance au
 livre était une absolument bonne idée.
 

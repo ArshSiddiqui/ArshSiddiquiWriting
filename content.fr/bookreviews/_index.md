@@ -12,5 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2023
 ___
+[Le Manteau et Autres Nouvelles](/fr/bookreviews/theovercoat/)
+
+[L'Adieu aux Armes](/fr/bookreviews/afarewelltoarms/)
 
 [La Forêt des Rois](/fr/bookreviews/theforest/)

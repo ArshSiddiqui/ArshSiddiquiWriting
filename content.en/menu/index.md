@@ -6,3 +6,4 @@ headless = true
 - [Poetry]({{< relref "/poetry" >}})
 - [Book Reviews]({{< relref "/BookReviews" >}})
 - [Old Writing]({{< relref "/OldWriting" >}})
+- [Others]({{< relref "/others" >}})

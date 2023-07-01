@@ -10,4 +10,8 @@ interests therein.
 
 &nbsp;  
 
+[Monopoly Frequency](/technical/monopolyfreq/)
+
+[Generated Poe](/technical/generatedpoe/)
+
 [Stock Analysis](/technical/stockanalysis/stockanalysis/)
