@@ -17,3 +17,10 @@ ___
 A story about art, and the difficulty of expression. Ongoing is an interesting dissection of the contrast 
 of the artist (or perhaps an artist) between the interior - their thoughts, feelings, and ideals - and their 
 exterior - their presentation and execution of their work.
+
+## 2017
+___
+[The Ihop Years](https://www.newyorker.com/culture/personal-history/david-sedaris-the-ihop-years)  
+Anything written by David Sedaris is generally a fantastic read, this was no exception to that. It details
+his time in Chicago, when he was at the Art Institute of Chicago just up til when he moved to New York City.
+This is, of course, a humurous story and rather pleasant.

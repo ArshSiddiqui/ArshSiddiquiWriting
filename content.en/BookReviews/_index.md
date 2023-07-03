@@ -12,6 +12,12 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2023
 ___
+[For Whom The Bell Tolls](/bookreviews/forwhomthebelltolls)
+
+[Stoner](/bookreviews/stoner)
+
+[Sherlock Holmes: The Complete Novels and Stories, Volume I](/bookreviews/sherlockholmesvolume1)
+
 [The Overcoat and Other Short Stories](/bookreviews/theovercoat/)
 
 [A Farewell to Arms](/bookreviews/afarewelltoarms/)
