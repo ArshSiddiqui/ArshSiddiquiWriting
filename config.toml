@@ -18,3 +18,8 @@ theme = 'hugo-book'
 	BookTheme = 'auto'
 	BookMenuBundle = '/menu'
 	BookDateFormat = 'Jan 2, 2006'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

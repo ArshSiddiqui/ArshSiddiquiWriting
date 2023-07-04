@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arsh Siddiqui</title>
+    <link>https://arshsiddiqui.pages.dev/</link>
+    <description>Recent content on Arsh Siddiqui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Feb 2023 16:20:02 -0500</lastBuildDate><atom:link href="https://arshsiddiqui.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Farewell to Arms</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/afarewelltoarms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/afarewelltoarms/</guid>
+      <description>A Farewell to Arms#Ernest Hemingway#March 6, 2023
+5/5
+This was a very enjoyable book overall, and one heck of a story for sure. I haven&amp;rsquo;t read very many books about war, WW1 included, so this was definitely a great introduction.
+The story itself is based upon Hemingway&amp;rsquo;s time serving as an ambulance driver working for the Italian military, where he had met a nurse he&amp;rsquo;d fallen in love with.</description>
+    </item>
+    
+    <item>
+      <title>A Tale of Two Cities</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/ataleoftwocities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/ataleoftwocities/</guid>
+      <description>A Tale of Two Cities#Charles Dickens#November 17, 2021
+5/5
+I bought this book on a whim about a year ago, but didn&amp;rsquo;t start reading it till not long ago. I was told by a good friend that it wasn&amp;rsquo;t all that it was chopped up to be, so I went in with little thought.
+I will say that the book began kind of slowly, but I enjoyed it all the same.</description>
+    </item>
+    
+    <item>
+      <title>Death of a Salesman</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/deathofasalesman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/deathofasalesman/</guid>
+      <description>Death of a Salesman#Arthur Miller#March 14, 2022
+5/5
+I&amp;rsquo;ve read only one of Miller&amp;rsquo;s books in the past, The Crucible, which was, of course, a fantastic novel. I&amp;rsquo;d heard of this book around the time I was reading that and it was described as one of the best American plays. I&amp;rsquo;ve finally gotten around to reading it and I can certainly agree with that claim.</description>
+    </item>
+    
+    <item>
+      <title>For Whom The Bell Tolls</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/forwhomthebelltolls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/forwhomthebelltolls/</guid>
+      <description>For Whom The Bell Tolls#Ernest Hemingway#June 30, 2023
+5/5
+A brilliant book to be sure. All that I have read of Hemingway I have enjoyed very much, his style of writing just feels extremely natural, funny enough. It really makes all of the internal monologue just go by smoothly because that sort of internal monologue feels natural in the way it has been written, like a real internal monologue.</description>
+    </item>
+    
+    <item>
+      <title>Generated Poe-try</title>
+      <link>https://arshsiddiqui.pages.dev/technical/generatedpoe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/technical/generatedpoe/</guid>
+      <description>Edgar Allen Poe-try#the day broke it
+so strong and a willingness
+to let it atone
+I have been interested in language modeling for a while, and I have done many projects in that realm in the past. Firstly, langauge modeling is the use of a technique to determine the probablility of a sentence occuring with the words in it in that order. It is frequently used to create computer algorithms that will create intelligible sentences based upon some text corpus.</description>
+    </item>
+    
+    <item>
+      <title>Headline Sentiment</title>
+      <link>https://arshsiddiqui.pages.dev/technical/headlinesentiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/technical/headlinesentiment/</guid>
+      <description>Headline Sentiment#Due to the prevalence of the internet in our day to day lives, we often tend to read and view news articles in a manner different than we used to. Traditional news journalism was read or recieved through newspapers or some other form of once-daily edification. Now we no longer seek this form of keeping up to date with what is going on in the world, rather we tend to find information and news through articles online.</description>
+    </item>
+    
+    <item>
+      <title>Kafka on the Shore</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/kafkaontheshore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/kafkaontheshore/</guid>
+      <description>Kafka on the Shore#Haruki Murakami#August 18, 2022
+3/5
+I could tell while reading this book that it is good, but my experience with this book was rather wierd and meandering per se.
+This book tells the story of two people, one is a student that flees from his father and home to live on his own. The other is of an older very simple man who can talk to cats.</description>
+    </item>
+    
+    <item>
+      <title>Monopoly Frequency</title>
+      <link>https://arshsiddiqui.pages.dev/technical/monopolyfreq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/technical/monopolyfreq/</guid>
+      <description>What squares are landed on the most in Monopoly?#I am pretty bad at Monopoly myself, and I had been lately learning more about how to improve my game. One interesting consideration to have when it comes to playing Monopoly is to consider which squares are landed upon the most. I typically spend my games trying to purchase squares near the end of the board, because if anybody lands on them I get a higher payout, but is that mentality necessarily true?</description>
+    </item>
+    
+    <item>
+      <title>Murder on the Orient Express</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/murderontheorientexpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/murderontheorientexpress/</guid>
+      <description>Murder on the Orient Express#Agatha Christie#November 27, 2021
+5/5
+The interesting thing about my reading schedule lately has been that I have been alternating between classic novels and Christie novels. I am a fairly slow reader so it&amp;rsquo;s always fun going from reading something like Don Quixote (which I greatly enjoyed but took me a good bit of months to read) to Christie&amp;rsquo;s &amp;ldquo;And Then There were None&amp;rdquo;, which I read in about two days and could not put down.</description>
+    </item>
+    
+    <item>
+      <title>New York Stories</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/newyorkstories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/newyorkstories/</guid>
+      <description>New York Stories#Diana Secker Tesdell (Editor)#January 12, 2023
+5/5
+Fantastic collection of stories, most if not all were a tremendous read and I found some really interesting authors that I&amp;rsquo;d definitely like to do more research into.
+Some of the stories felt very cozy and relaxed (&amp;ldquo;A Snowy Night on West-Forty Ninth Street&amp;rdquo; for example), others had a really captivating story that was hard to put down (like &amp;ldquo;Sonny&amp;rsquo;s Blues&amp;rdquo; and &amp;ldquo;Negocios&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Paris</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/paris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/paris/</guid>
+      <description>Paris#Edward Rutherford#June 1, 2022
+5/5
+This is a book that I have read a good many times in my life, but it&amp;rsquo;s been a while since I last read it and I haven&amp;rsquo;t yet reviewed it so I figured that I&amp;rsquo;d give it a go.
+This book discusses the history of Paris over about 1000 years (I think) through the perspectives of many different families of different upbringings, stories, and political perspectives.</description>
+    </item>
+    
+    <item>
+      <title>Poems of Rome</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/poemsofrome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/poemsofrome/</guid>
+      <description>Poems of Rome#Karl Kirchwey (Editor)#December 26, 2021
+3/5
+This&amp;rsquo;ll be the first ever full book of poetry I&amp;rsquo;ve read, and the first time I&amp;rsquo;ve really considered the poetry I&amp;rsquo;m reading since high school English. Sure, I have read a fair bit of poetry since then, but I haven&amp;rsquo;t really taken the time to analyze it like I used to.
+Overall, this book was enjoyable. There were certainly poems I enjoyed, and the book did introduce me to Rainer Maria Rilke&amp;rsquo;s work, which I will certainly have to read more in the future, but there were also poems I just read for the sake of completion.</description>
+    </item>
+    
+    <item>
+      <title>Real Programmers Use Gmail</title>
+      <link>https://arshsiddiqui.pages.dev/oldwriting/realprogrammersusegmail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/oldwriting/realprogrammersusegmail/</guid>
+      <description>Real Programmers Use Gmail#I was recently having a conversation with a good friend of mine from the university. We were both students of the computer, or Computer Science majors as most people knew us by. During this conversation, I happened upon a question then that did intrigue me greatly: “What do you use to code?”.
+See, this programmer (along with many others at my school) happen to use the IDE (the meaning of which doesn’t matter, but I DuckDuckGoed it, and it means Integrated Development Environment if you really care) of Eclipse.</description>
+    </item>
+    
+    <item>
+      <title>Romeo and Julliet</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/romeoandjulliet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/romeoandjulliet/</guid>
+      <description>Romeo and Julliet#William Shakespeare#February 19, 2022
+4/5
+Given the many varying reviews of this novel that I&amp;rsquo;ve seen here, I was curious to see what I&amp;rsquo;d think of it after having finished reading the story. I didn&amp;rsquo;t know a lot about the story beforehand (besides whatever is in the public consciousness), and it&amp;rsquo;d taken me long enough to get round to the book, so I dived right on it.</description>
+    </item>
+    
+    <item>
+      <title>Sherlock Holmes The Complete Novels and Stories, Volume I</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/sherlockholmesvolume1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/sherlockholmesvolume1/</guid>
+      <description>Sherlock Holmes: The Complete Novels and Stories, Volume I#Arthur Conan Doyle#June 10, 2023
+5/5
+It has taken me quite a while to actually read the full book. I&amp;rsquo;ve read many Holmes short stories, but I think the order of presentation, while not totally necessary, is pleasant.
+Of course, there is not much I can say about Holmes that has not already been said.
+I can only say that the stories and questions established by Doyle are certainly incredible, and leave the reader with a feeling of surprising clarity.</description>
+    </item>
+    
+    <item>
+      <title>Stock Analysis</title>
+      <link>https://arshsiddiqui.pages.dev/technical/stockanalysis/stockanalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/technical/stockanalysis/stockanalysis/</guid>
+      <description>Stock Analysis#Given the ubiquity of the financial market in our day to day lives, and with my personal interest in stocks I figured that now would be as good of a time as any to learn how to analyze stocks with code.
+Given its current ubiquity in the field and with its abundance of libraries that would make learning more about this field, I elected to proceed with Python.</description>
+    </item>
+    
+    <item>
+      <title>Stoner</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/stoner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/stoner/</guid>
+      <description>Stoner#John Williams#June 19, 2023
+5/5
+This book was a rather quick read compared to what I&amp;rsquo;m used to. It as, as simply as can be said, the story of the life of a man, which by its very nature does not necessarily sound interesting, but I think that the simplicity and eternal relevance of the subject matter make it so captivating.
+This is very likely one of the best books I&amp;rsquo;ve read this year thus far, and it has made me think about myself more than any other book has.</description>
+    </item>
+    
+    <item>
+      <title>Tell Them of Battles, Kings and Elephants</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/tellthemofbattleskingsandelephants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/tellthemofbattleskingsandelephants/</guid>
+      <description>Tell Them of Battles, Kings and Elephants#Mathias Énard#January 15, 2022
+4/5
+I really enjoyed this book. It was, most of the time, an incredibly calming book that I found much enjoyment out of, which was surprising for me because I found it incredibly randomly. I discovered this book, mostly through its book cover, which was designed by the fantastic Peter Mendelsund. I happened to find the blurb on the book really interesting, and wasn&amp;rsquo;t able to find much about it online, outside of some book reviews.</description>
+    </item>
+    
+    <item>
+      <title>The Count of Monte Cristo</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/thecountofmontecristo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/thecountofmontecristo/</guid>
+      <description>The Count of Monte Cristo#Alexandre Dumas#August 5, 2021
+5/5
+For a while now, I&amp;rsquo;ve been continuously hearing people rave about this book, describing it as thrilling and exciting. And that&amp;rsquo;s coming from people who aren&amp;rsquo;t even that into classical literature as some others may be. After finishing the book, I can certainly agree with that sentiment.
+Without laying too much on the line, this book deals a lot with vengeance, and slow, critically aimed vengeance at that, which left me continuously wanting to see what would happen next.</description>
+    </item>
+    
+    <item>
+      <title>The Elegance of the Hedgehog</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/theeleganceofthehedgehog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/theeleganceofthehedgehog/</guid>
+      <description>The Elegance of the Hedgehog#Muriel Barbery#August 19, 2022
+1.5/5
+There are many reasons why this book is not enjoyable, and many folks have already given many reasons to that effect, but for me it was mostly the characters and one passage in particular (which gave me reason to doubt a lot of the book).
+Firstly, the characters are not great. One is a concierge named Renee, who does not wish for the rich people living in the building she works at to discover she has read a couple Dostoevskys and understands some Wikipedia articles on philosophy.</description>
+    </item>
+    
+    <item>
+      <title>The Forest</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/theforest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/theforest/</guid>
+      <description>The Forest#Edward Rutherfurd#February 16, 2023
+4.5/5
+I have only read one other novel by Edward Rutherford, &amp;ldquo;Paris&amp;rdquo;, which has become one of my favorite books and one that I go back to reasonably often. I bought this book quite a long while ago, but didn&amp;rsquo;t finish it the first time around, giving it another shot though was absolutely a great idea.
+This book was an incredibly engaging historical sequence and story of a couple different old families of the New Forest region in southern England.</description>
+    </item>
+    
+    <item>
+      <title>The Man Who Died Twice</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/themanwhodiedtwice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/themanwhodiedtwice/</guid>
+      <description>The Man Who Died Twice#Richard Osman#June 26, 2022
+5/5
+This was a genuinely lovely read. I don&amp;rsquo;t know whether I more so consider it to be a mystery or comedy, but it is certainly a bit of both. There were moments reading it where I genuinely laughed out loud, and that hardly happens to me with books, so that was a lovely surprise. This book is a bit more of a quicker read compared to some of the others that I&amp;rsquo;ve read, but that&amp;rsquo;s probably due to the subject matter, and the speed with which I read mystery novels.</description>
+    </item>
+    
+    <item>
+      <title>The Mayor of Casterbridge</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/themayorofcasterbridge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/themayorofcasterbridge/</guid>
+      <description>The Mayor of Casterbridge#Thomas Hardy#Febryary 5, 2022
+5/5
+Some potential spoilers ahead.
+As with most classics, The Mayor of Casterbridge took me a while to read. The first half took a good few weeks, but the second half was finished rather quickly.
+I recall reading something in the preface/note that mentioned that Henchard was not a bad man, but that he is hot-tempered. It was hard, for much of the novel, for me to understand why that statement was true, why it was the case, but I seemed to then have forgotten something I recall now, that people can change.</description>
+    </item>
+    
+    <item>
+      <title>The Overcoat and Other Short Stories</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/theovercoat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/theovercoat/</guid>
+      <description>The Overcoat and Other Short Stories#Nikolai Gogol#March 23, 2023
+4/5
+The collection of stories here were indeed rather interesting. Firstly I will note that quite often there are references to &amp;ldquo;little Russia&amp;rdquo;, of which I will ignore the political consequences in this r. They are rather big consequences, and they are interesting considerations. I actually learned of Nikolai Gogol first through those consequences, through an article by the New Yorker.</description>
+    </item>
+    
+    <item>
+      <title>The Shadow of the Wind</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/theshadowofthewind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/theshadowofthewind/</guid>
+      <description>The Shadow of the Wind#Carlos Ruiz Zafón#January 4, 2022
+4/5
+I found this book far easier to read than many of the previous books I&amp;rsquo;d finished. That does not necessarily make it any better, but it is something to be noted. Mostly that I have spent most of my time recently reading classics and mystery novels, so a historical fiction novel (which is interest-wise down my alley) would have likely been a different read to begin with.</description>
+    </item>
+    
+    <item>
+      <title>Utopia</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/utopia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/utopia/</guid>
+      <description>Utopia#Thomas More#June 14, 2022
+4/5
+Utopia is a satirical novel on English politics of the time period, at least I reckon. It describes one man&amp;rsquo;s experience with a &amp;ldquo;Utopian land&amp;rdquo; and goes into detail about life and the inhabitants of the island.
+I find this to be overall a great book, I found that the format of the novel (between the first half which was more of a discussion of the troubles with English politics at the time, and the second half which focused solely on Utopia and its state of affairs) to be generally quite good as a discussion of &amp;ldquo;Utopia&amp;rdquo; and as a comparison to human-like life and politics.</description>
+    </item>
+    
+    <item>
+      <title>Victory</title>
+      <link>https://arshsiddiqui.pages.dev/bookreviews/victory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/bookreviews/victory/</guid>
+      <description>Victory#Joseph Conrad#December 21, 2022
+3/5
+This book took me a long time to read, it wasn&amp;rsquo;t its fault, though, more of mine.
+I&amp;rsquo;d say the book was pretty good, albeit a little bit slow for my tastes throughout much of the beginning and middle of the book.
+The ending was absolutely fantastic and when a lot of the writing really came through and shone for me.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://arshsiddiqui.pages.dev/docs/aboutme/</link>
+      <pubDate>Sat, 25 Feb 2023 16:20:02 -0500</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/docs/aboutme/</guid>
+      <description>Hello, my name is Arsh Siddiqui.
+This website contains a portfolio of my writing.
+Hopefully you&amp;rsquo;ll enjoy it&amp;hellip;
+Thanks for coming along!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://arshsiddiqui.pages.dev/docs/page-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/docs/page-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://arshsiddiqui.pages.dev/docs/page-two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/docs/page-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://arshsiddiqui.pages.dev/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Best Articles I Have Read</title>
+      <link>https://arshsiddiqui.pages.dev/others/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/others/articles/</guid>
+      <description>The Best Articles I Have Read#These are some of the best articles I have read, those that have made me think or feel an emotion more strongly than I am used to. These may be news articles, but are more likely to be phrased in the form of stories. They are organized in terms of publication date.
+2023#The End of the English Major
+A lot was discussed in this article - a lot that I want to explore, think about, and write about.</description>
+    </item>
+    
+    <item>
+      <title>The Best Short Stories I Have Read</title>
+      <link>https://arshsiddiqui.pages.dev/others/shortstories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/others/shortstories/</guid>
+      <description>The Best Short Stories I Have Read#These are some of the best short stories I have read. These have made me feel things I would not normally feel reading stories and think about things more deeply than I would otherwise, or maybe they were just a fun read. They are organized in terms of publication date.
+2023#The Third Law of Magic
+A story about art, and the difficulty of expression.</description>
+    </item>
+    
+    <item>
+      <title>The Dangers of a Hyper-Niche Base</title>
+      <link>https://arshsiddiqui.pages.dev/blog/thedangersofahypernichebase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arshsiddiqui.pages.dev/blog/thedangersofahypernichebase/</guid>
+      <description>The Dangers of a Hyper-Niche Base#July 3, 2023
+In fashion today, specificity over a niche base of aesthetic or style is becoming a more popular way to sustain a brand. Cult-like followings of certain brands or aesthetics has become more popular than ever, and now brands have seen, or will see, a need to attract these consumers to survive. Attracting this consumer base is no doubt of great importance for the survival of brands, particularly those that are smaller or are still growing.</description>
+    </item>
+    
+  </channel>
+</rss>
