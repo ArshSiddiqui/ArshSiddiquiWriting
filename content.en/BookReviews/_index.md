@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2023
 ___
+[Kyoto-Dwelling: A Year of Brief Poems](/bookreviews/kyoto_dwellings)
+
 [For Whom The Bell Tolls](/bookreviews/forwhomthebelltolls)
 
 [Stoner](/bookreviews/stoner)

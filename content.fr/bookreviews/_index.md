@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2023
 ___
+[Habitation à Kyoto: Une année des brefs poèmes](/fr/bookreviews/kyoto_dwellings/)
+
 [Le Manteau et Autres Nouvelles](/fr/bookreviews/theovercoat/)
 
 [L'Adieu aux Armes](/fr/bookreviews/afarewelltoarms/)
