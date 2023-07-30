@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/everyman/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/everyman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/everyman/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/kyoto_dwellings/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/kyoto_dwellings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/kyoto_dwellings/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/afarewelltoarms/</loc>
     <xhtml:link
                 rel="alternate"

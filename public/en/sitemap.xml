@@ -18,6 +18,18 @@
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/deathofasalesman/</loc>
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/everyman/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/everyman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/everyman/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/forwhomthebelltolls/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/technical/generatedpoe/</loc>
@@ -25,6 +37,18 @@
     <loc>https://arshsiddiqui.pages.dev/technical/headlinesentiment/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/kafkaontheshore/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/kyoto_dwellings/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/kyoto_dwellings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/kyoto_dwellings/"
+                />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/technical/monopolyfreq/</loc>
   </url><url>
@@ -203,6 +227,8 @@
                 hreflang="en"
                 href="https://arshsiddiqui.pages.dev/poetry/"
                 />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/blog/self_perception_in_fashion/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/tags/</loc>
     <xhtml:link

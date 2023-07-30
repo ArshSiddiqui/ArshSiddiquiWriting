@@ -12,6 +12,10 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2023
 ___
+[Neverwhere](/bookreviews/neverwhere)
+
+[The Martian Chornicles](/bookreviews/the_martian_chronicles)
+
 [Everyman](/bookreviews/everyman)
 
 [Kyoto-Dwelling: A Year of Brief Poems](/bookreviews/kyoto_dwellings)
