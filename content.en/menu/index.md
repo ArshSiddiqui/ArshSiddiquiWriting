@@ -5,6 +5,6 @@ headless = true
 - [Blog]({{< relref "/blog" >}})
 - [Technical]({{< relref "/technical" >}})
 - [Poetry]({{< relref "/poetry" >}})
+- [Short Stories]({{< relref "/ShortStories" >}})
 - [Book Reviews]({{< relref "/BookReviews" >}})
-- [Old Writing]({{< relref "/OldWriting" >}})
 - [Others]({{< relref "/others" >}})
