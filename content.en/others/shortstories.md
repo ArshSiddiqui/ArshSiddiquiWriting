@@ -19,7 +19,7 @@ of the artist (or perhaps an artist) between the interior - their thoughts, feel
 exterior - their presentation and execution of their work.
 
 ## 2018
-__
+___
 [Seeing Ershadi](https://www.newyorker.com/magazine/2018/03/05/seeing-ershadi)  
 This story is incredible and confusing. I think one of the reasons I like it so much is because I can't totally 
 understand it. Overall, though, it speaks to the feeling of finding a piece of art at the perfect time in one's life, 
@@ -33,7 +33,7 @@ his time in Chicago, when he was at the Art Institute of Chicago just up til whe
 This is, of course, a humurous story and rather pleasant.
 
 ## 2015
-__
+___
 [A Dance to the Music of Time](https://www.theparisreview.org/blog/2015/03/06/a-dance-to-the-music-of-time/)  
 I'm not totally sure how to describe this short story, except perhaps in that it is wonderful and excellent 
 in full part. The story feels both familiar and distant - in ways that I feel and perhaps want to feel (or 
