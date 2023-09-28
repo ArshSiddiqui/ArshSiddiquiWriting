@@ -9,6 +9,7 @@ Work and writing of a more technical stance and nature. Geared towards my studie
 interests therein. 
 
 &nbsp;  
+[Modeling Paris's Metro](/technical/Learning_osmnx/)
 
 [Monopoly Frequency](/technical/monopolyfreq/)
 
