@@ -12,11 +12,13 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2023
 ___
+[The Grip of Film](/fr/bookreviews/the_grip_of_film)
+
 [Si par un nuit d'hiver un voyageur](/fr/bookreviews/if_on_a_winters_night_a_traveler)
 
 [Neverwhere](/fr/bookreviews/neverwhere)
 
-[The Martian Chornicles](/fr/bookreviews/the_martian_chronicles)
+[Chroniques Martiennes](/fr/bookreviews/the_martian_chronicles)
 
 [Everyman](/fr/bookreviews/everyman)
 

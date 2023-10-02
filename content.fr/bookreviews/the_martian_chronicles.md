@@ -4,11 +4,11 @@ type: docs
 weight: 10
 ---
 
-# The Martian Chronicles
+# Chroniques Martiennes
 
 #### Ray Bradbury
 
-*July 23, 2023*  
+*23 Julliet, 2023*  
 
 5/5
 
