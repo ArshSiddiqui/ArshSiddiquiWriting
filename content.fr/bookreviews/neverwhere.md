@@ -8,7 +8,7 @@ weight: 10
 
 #### Neil Gaiman
 
-*July 30, 2023*  
+*30 Julliet, 2023*  
 
 5/5
 
