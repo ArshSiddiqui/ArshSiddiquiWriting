@@ -9,6 +9,8 @@ Work and writing of a more technical stance and nature. Geared towards my studie
 interests therein. 
 
 &nbsp;  
+[Montreal Air Pollution Analysis](/technical/montreal_air_pollution/)
+
 [Modeling Paris's Metro](/technical/learning_osmnx/)
 
 [Monopoly Frequency](/technical/monopolyfreq/)
