@@ -17,14 +17,17 @@ async function getData() {
     let songlist = document.getElementById('songs');
     let lev = 1;
     data.forEach(song => {
-        console.log(song['name']);
+        console.log(song)
         let elem = document.createElement('p');
-        elem.innerHTML = lev.toString()+". "+song['name'];
+        elem.innerHTML = lev.toString()+". <a href='"+song['song_link']+"'>"+song['name']+"</a>";
         let singer_elem = document.createElement('span');
-        singer_elem.innerHTML = song['artist'];
+        singer_elem.innerHTML = "<a href='"+song['artist_url']+"'>"+song['artist']+"</a>";
         singer_elem.style = "float: right;";
         elem.appendChild(singer_elem);
         songlist.appendChild(elem);
+        let preview_elem = document.createElement('p');
+        preview_elem.innerHTML = "<embed src='"+song['preview_link']+"' style='width:100%;height:5vh;margin-top:0px;'>";
+        songlist.appendChild(preview_elem);
         // songlist.appendChild(singer_elem);
         lev = lev + 1;
     });
