@@ -12,12 +12,11 @@
 // }
 
 async function getData() {
-    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/data/5_short_term_songs.json');
+    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/5_short_term_songs.json');
     const data = await response.json();
     let songlist = document.getElementById('songs');
     let lev = 1;
     data.forEach(song => {
-        console.log(song)
         let elem = document.createElement('p');
         elem.innerHTML = lev.toString()+". <a href='"+song['song_link']+"'>"+song['name']+"</a>";
         let singer_elem = document.createElement('span');
@@ -31,10 +30,8 @@ async function getData() {
         // songlist.appendChild(singer_elem);
         lev = lev + 1;
     });
-    console.log("data", data);
 }
 
-console.log("hello");
 getData();
 // var Spotify = require("spotify-web-api.js");
 // var s = new Spotify();
