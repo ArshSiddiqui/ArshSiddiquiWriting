@@ -4,9 +4,8 @@ type: docs
 ---
 
 # My Listens
-
+This will update every two hours as the music itself that I listen to changes. The data comes from the Spotify API, and was encorporated with `Spotipy`.
 &nbsp;  
-
 
 ## Short Term Listens
 These are the songs I have been listening to the most in the past four weeks.  
