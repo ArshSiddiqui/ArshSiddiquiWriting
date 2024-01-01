@@ -10,6 +10,10 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 &nbsp;  
 
+## 2024
+___
+[Les Apprenants](/fr/bookreviews/the_learners)
+
 ## 2023
 ___
 [The Grip of Film](/fr/bookreviews/the_grip_of_film)

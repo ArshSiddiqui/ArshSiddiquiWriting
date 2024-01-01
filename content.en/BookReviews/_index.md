@@ -10,6 +10,10 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 &nbsp;  
 
+## 2024
+___
+[The Learners](/bookreviews/the_learners)
+
 ## 2023
 ___
 [The Grip of Film](/bookreviews/the_grip_of_film)
