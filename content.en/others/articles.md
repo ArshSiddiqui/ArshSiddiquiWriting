@@ -9,10 +9,24 @@ These are some of the best articles I have read, those that have made me think o
 more strongly than I am used to. These may be news articles, but are more likely to be phrased in the
 form of stories. They are organized in terms of publication date.
 
-&nbsp;  
 
 ## 2023
 ___
+[Paul Bowles in Tangier](https://www.theparisreview.org/blog/2023/11/21/paul-bowles-in-tangier/)  
+I'm not really sure how to explain this article. I just found it to be interesting, even though I haven't read any books by Paul Bowles. It's good!
+
+[I Asked New York Cabbies Who They Were Talking to on the Phone](https://www.vice.com/en/article/exq85k/who-the-hell-are-taxi-drivers-always-talking-to-on-the-phone-1117)  
+I'm sure a lot of people have wondered who their cab drivers are continuously talking to on the phone. This sheds some light on it and explains some of it through, an albeit small, population of cab drivers.
+
+[The Man Who Invented Fifteen Hundred Necktie Knots](https://www.newyorker.com/culture/annals-of-inquiry/the-man-who-invented-fifteen-hundred-necktie-knots)  
+This is just a fun article. For one, the story of the man himself is interesting and enjoyable in it of itself. And then additionally the mathematical presentation and the concepts therein are additionally quite fascinating.
+
+[We're More Ghosts Than People](https://www.theparisreview.org/blog/2023/10/16/were-more-ghosts-than-people/)  
+This provides an interesting juxtaposition between the playing of a video game and the life of the narrator, particularly with respect to the attempt to redeem oneself.
+
+[The Forgotten End of the Second World War](https://www.spectator.co.uk/article/the-forgotten-end-of-the-second-world-war/)  
+This is incredibly fascinating. I should begin by stating that the information presented in this article **should** be known and taught to students in America, unfortunately, it often isn't. This discusses, in brief, some information about the Pacific theatre of the war, and some details that are quite critical to the development of modern society since then, that should be known by much more Americans.
+
 [The End of the English Major](https://www.newyorker.com/magazine/2023/03/06/the-end-of-the-english-major?utm_source=pocket_saves)  
 A lot was discussed in this article - a lot that I want to explore, think about, and write about. Generally it
 deals with humanitites majors today and the shifts they are facing. These shifts are related to both society's view of them,
