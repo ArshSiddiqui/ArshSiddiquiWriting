@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Montreal Air Pollution Analysis#December 10, 2023
+Being recently introduced to osmnx, I have continued to tinker around and play with it to see if I could do my own amateur urban analysis. Previously, I had attempted to model the metro of Paris, and then perform a shortest path search on two random stations within.
+This time, I have chosen to target Montreal, and while I had initially wanted to perform greenspace analysis (due to my interest in the Ruelles Vertes), I had quickly found data for air pollution therein.">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Montreal Air Pollution Analysis" />
+<meta property="og:description" content="Montreal Air Pollution Analysis#December 10, 2023
+Being recently introduced to osmnx, I have continued to tinker around and play with it to see if I could do my own amateur urban analysis. Previously, I had attempted to model the metro of Paris, and then perform a shortest path search on two random stations within.
+This time, I have chosen to target Montreal, and while I had initially wanted to perform greenspace analysis (due to my interest in the Ruelles Vertes), I had quickly found data for air pollution therein." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://arshsiddiqui.pages.dev/technical/montreal_air_pollution/" /><meta property="article:section" content="technical" />
+
+
+
+<title>Montreal Air Pollution Analysis | Arsh Siddiqui</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.b3488045b94246c08cb956e8a82d99944a7cbd581bf976a700e281bbb73b1a07.css" integrity="sha256-s0iARblCRsCMuVboqC2ZlEp8vVgb&#43;XanAOKBu7c7Ggc=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.5b376990ba123cef8383651fdc7724acb4e4712336893fabc7644e5657296bd1.js" integrity="sha256-WzdpkLoSPO&#43;Dg2Uf3HckrLTkcSM2iT&#43;rx2ROVlcpa9E=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Arsh Siddiqui</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+
+<ul class="book-languages">
+  <li>
+    <input type="checkbox" id="languages" class="toggle" />
+    <label for="languages" class="flex justify-between">
+      <a role="button" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </label>
+
+    <ul>
+      
+      <li>
+        <a href="https://arshsiddiqui.pages.dev/fr/">
+          French
+        </a>
+      </li>
+      
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  <ul>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/technical/">Technical</a></li>
+<li><a href="/research/">Research</a></li>
+<li><a href="/poetry/">Poetry</a></li>
+<li><a href="/shortstories/">Short Stories</a></li>
+<li><a href="/bookreviews/">Book Reviews</a></li>
+<li><a href="/others/">Others</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Montreal Air Pollution Analysis</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents"></nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="montreal-air-pollution-analysis">
+  Montreal Air Pollution Analysis
+  <a class="anchor" href="#montreal-air-pollution-analysis">#</a>
+</h1>
+<p><strong>December 10, 2023</strong></p>
+<p>Being recently introduced to <code>osmnx</code>, I have continued to tinker around and play with it to see if I could do my own
+amateur urban analysis. Previously, I had attempted to model the metro of Paris, and then perform a shortest path search
+on two random stations within.</p>
+<p>This time, I have chosen to target Montreal, and while I had initially wanted to perform greenspace analysis (due to my interest
+in the <em>Ruelles Vertes</em>), I had quickly found data for air pollution therein. This data looked pretty comprehensive to me
+(foreshadowing), so I figured that it would be interesting to consider air pollution across Montreal. Additionally, I&rsquo;d be able to
+use some of my <code>osmnx</code> knowledge to plot some information over it to possibly reveal more information.</p>
+<p>I used <a href="https://donnees.montreal.ca/dataset/rsqa-iqa-historique">this</a> dataset from Montreal government&rsquo;s website providing data on the
+city itself (<em>Montréal Données Ouvertes</em>), which provided historical data on Montreal&rsquo;s air pollution. Let&rsquo;s begin by trying to understand
+this data.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span>aq <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_csv(<span style="color:#e6db74">&#39;rsqa-indice-qualite-air-2019-2021.csv&#39;</span>)
+</span></span><span style="display:flex;"><span>aq<span style="color:#f92672">.</span>head()
+</span></span></code></pre></div><table>
+<thead>
+<tr>
+<th style="text-align:right"></th>
+<th style="text-align:right">stationId</th>
+<th style="text-align:left">polluant</th>
+<th style="text-align:right">valeur</th>
+<th style="text-align:left">date</th>
+<th style="text-align:right">heure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">0</td>
+<td style="text-align:right">17</td>
+<td style="text-align:left">CO</td>
+<td style="text-align:right">1</td>
+<td style="text-align:left">2019-02-19</td>
+<td style="text-align:right">18</td>
+</tr>
+<tr>
+<td style="text-align:right">1</td>
+<td style="text-align:right">17</td>
+<td style="text-align:left">O3</td>
+<td style="text-align:right">20</td>
+<td style="text-align:left">2019-02-19</td>
+<td style="text-align:right">18</td>
+</tr>
+<tr>
+<td style="text-align:right">2</td>
+<td style="text-align:right">17</td>
+<td style="text-align:left">NO2</td>
+<td style="text-align:right">3</td>
+<td style="text-align:left">2019-02-19</td>
+<td style="text-align:right">18</td>
+</tr>
+<tr>
+<td style="text-align:right">3</td>
+<td style="text-align:right">17</td>
+<td style="text-align:left">PM</td>
+<td style="text-align:right">9</td>
+<td style="text-align:left">2019-02-19</td>
+<td style="text-align:right">18</td>
+</tr>
+<tr>
+<td style="text-align:right">4</td>
+<td style="text-align:right">80</td>
+<td style="text-align:left">SO2</td>
+<td style="text-align:right">1</td>
+<td style="text-align:left">2019-02-19</td>
+<td style="text-align:right">18</td>
+</tr>
+</tbody>
+</table>
+<p><code>stationId</code> refers to the id of the station in which the measurement was taken at.<br>
+<code>polluant</code> refers to the pollutant the measure refers to.<br>
+<code>valeur</code> is the quantified amount of the pollutant. According to Montreal&rsquo;s data page, the
+data ranges as follows:</p>
+<ul style="margin-top:-15px; margin-bottom:-15px">
+<li style="font-size:13px"> 1-25  : Good </li>
+<li style="font-size:13px"> 26-50 : Acceptable </li>
+<li style="font-size:13px"> 50 >  : Bad </li>
+</ul>  
+<p><code>date</code> is the date the measurement was taken.<br>
+<code>heure</code> is the hour the measurement was taken, in 24h.</p>
+<p>At first, I was unaware of what the <code>stationId</code> exactly refers to. However, after look around <em>Montréal Données Ouvertes</em> a bit more, I
+managed to find <a href="https://donnees.montreal.ca/dataset/rsqa-liste-des-stations">another useful dataset</a> that would explain this better:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span>stations <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_csv(<span style="color:#e6db74">&#39;liste-des-stations-rsqa.csv&#39;</span>)
+</span></span><span style="display:flex;"><span>stations<span style="color:#f92672">.</span>head()
+</span></span></code></pre></div><table>
+<thead>
+<tr>
+<th style="text-align:right"></th>
+<th style="text-align:right">numero_station</th>
+<th style="text-align:right">SNPA</th>
+<th style="text-align:left">statut</th>
+<th style="text-align:left">nom</th>
+<th style="text-align:left">adresse</th>
+<th style="text-align:left">arrondissement_ville</th>
+<th style="text-align:right">latitude</th>
+<th style="text-align:right">longitude</th>
+<th style="text-align:right">X</th>
+<th style="text-align:right">Y</th>
+<th style="text-align:right">secteur_id</th>
+<th style="text-align:left">secteur_nom</th>
+<th style="text-align:right">hauteur</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">0</td>
+<td style="text-align:right">1</td>
+<td style="text-align:right">50102</td>
+<td style="text-align:left">fermé</td>
+<td style="text-align:left">Jardin Botanique</td>
+<td style="text-align:left">Jardin Botanique, Montréal</td>
+<td style="text-align:left">Rosemont-La Petite-Patrie</td>
+<td style="text-align:right">45.5622</td>
+<td style="text-align:right">-73.5718</td>
+<td style="text-align:right">299196</td>
+<td style="text-align:right">5.04692e+06</td>
+<td style="text-align:right">1</td>
+<td style="text-align:left">Centre-Ville</td>
+<td style="text-align:right">4</td>
+</tr>
+<tr>
+<td style="text-align:right">1</td>
+<td style="text-align:right">3</td>
+<td style="text-align:right">50103</td>
+<td style="text-align:left">ouvert</td>
+<td style="text-align:left">Saint-Jean-Baptiste</td>
+<td style="text-align:left">1050 A, St-Jean-Baptiste</td>
+<td style="text-align:left">Rivière-des-Prairies</td>
+<td style="text-align:right">45.641</td>
+<td style="text-align:right">-73.4997</td>
+<td style="text-align:right">304825</td>
+<td style="text-align:right">5.05568e+06</td>
+<td style="text-align:right">4</td>
+<td style="text-align:left">Est</td>
+<td style="text-align:right">4</td>
+</tr>
+<tr>
+<td style="text-align:right">2</td>
+<td style="text-align:right">6</td>
+<td style="text-align:right">50124</td>
+<td style="text-align:left">ouvert</td>
+<td style="text-align:left">Anjou</td>
+<td style="text-align:left">7650 rue Châteauneuf</td>
+<td style="text-align:left">Anjou</td>
+<td style="text-align:right">45.6028</td>
+<td style="text-align:right">-73.5589</td>
+<td style="text-align:right">300207</td>
+<td style="text-align:right">5.05144e+06</td>
+<td style="text-align:right">4</td>
+<td style="text-align:left">Est</td>
+<td style="text-align:right">12</td>
+</tr>
+</tbody>
+</table>
+<p><em>This has been shortened further for the sake of length</em></p>
+<p>Here, we can see that the <code>numero_station</code> would relate to our <code>stationId</code>, and thus now we know it correlates to a particular station somewhere
+in Montreal where the data was obtained or calculated. So, for example, the station with <code>stationId=17</code> was found to be <em>Caserne 17</em> at <em>4240 rue Charleroi</em>.</p>
+<p>Now that our data has been established and related, we need a way to project it onto an actual map of Montreal. In this case, I will be used <code>geopandas</code>
+and a shapefile of Montreal, which just outlines the shape of a geographic area that we can graph and project information onto:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span><span style="color:#f92672">import</span> geopandas <span style="color:#66d9ef">as</span> gpd
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> pandas <span style="color:#66d9ef">as</span> pd
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> shapely.geometry <span style="color:#f92672">import</span> Point
+</span></span><span style="display:flex;"><span><span style="color:#f92672">from</span> matplotlib.colors <span style="color:#f92672">import</span> TwoSlopeNorm
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span>montreal_shape <span style="color:#f92672">=</span> gpd<span style="color:#f92672">.</span>read_file(<span style="color:#e6db74">&#39;montreal_shapefile.geojson&#39;</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>fig,ax <span style="color:#f92672">=</span> plt<span style="color:#f92672">.</span>subplots()
+</span></span><span style="display:flex;"><span>montreal_shape<span style="color:#f92672">.</span>plot(ax<span style="color:#f92672">=</span>ax)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>stations <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_csv(<span style="color:#e6db74">&#39;liste-des-stations-rsqa.csv&#39;</span>)
+</span></span><span style="display:flex;"><span>stations_latlong <span style="color:#f92672">=</span> [Point(xy) <span style="color:#66d9ef">for</span> xy <span style="color:#f92672">in</span> zip(stations[<span style="color:#e6db74">&#39;longitude&#39;</span>], stations[<span style="color:#e6db74">&#39;latitude&#39;</span>])]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>montreal_stations_geo <span style="color:#f92672">=</span> gpd<span style="color:#f92672">.</span>GeoDataFrame(geometry<span style="color:#f92672">=</span>stations_latlong)
+</span></span><span style="display:flex;"><span>montreal_stations_geo<span style="color:#f92672">.</span>plot(ax<span style="color:#f92672">=</span>ax, markersize<span style="color:#f92672">=</span><span style="color:#ae81ff">20</span>, color<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;red&#39;</span>)
+</span></span></code></pre></div><figure>
+  <p style="text-align:center;"><img src="images/montreal_stretch_projection.png" alt="image of projection of station locations in Monreal" style="width: 70%; height: auto;"></p>
+  <figcaption style="font-size: 12px; text-align:center;">Projection of station locations onto Montreal</figcaption>
+</figure>
+<p>Unfortunately, for some reason, projecting the locations of the stations onto the map itself seems to distort it a bit? We&rsquo;ll deal with that in our
+final projection and display later.</p>
+<p>Doubly unfortunately, these stations are clustered in a particular subset of the <em>arrondissements</em> of Montreal. This means that we will not get at all
+a very fully defined graph, but one that will rather have information based upon a particular subset of the <em>arrondissements</em>. I don&rsquo;t really have an idea of how to deal with this, so I&rsquo;ll let it live, at least for now.</p>
+<p>Otherwise, the data is historic over a few years and over many days, so, we will first perform some aggregate computation on the amount of pollution per pollutant per station in the city:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span>aq <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_csv(<span style="color:#e6db74">&#39;rsqa-indice-qualite-air-2019-2021.csv&#39;</span>)
+</span></span><span style="display:flex;"><span>aq_stations <span style="color:#f92672">=</span> aq[<span style="color:#e6db74">&#39;stationId&#39;</span>]<span style="color:#f92672">.</span>unique()
+</span></span><span style="display:flex;"><span>aq_poll_types <span style="color:#f92672">=</span> aq[<span style="color:#e6db74">&#39;polluant&#39;</span>]<span style="color:#f92672">.</span>unique()
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>avg_res_lst <span style="color:#f92672">=</span> []
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> t <span style="color:#f92672">in</span> aq_poll_types:
+</span></span><span style="display:flex;"><span>  avg_res <span style="color:#f92672">=</span> {}
+</span></span><span style="display:flex;"><span>  aq_t <span style="color:#f92672">=</span> aq[aq[<span style="color:#e6db74">&#39;polluant&#39;</span>] <span style="color:#f92672">==</span> t]
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">for</span> s <span style="color:#f92672">in</span> aq_stations:
+</span></span><span style="display:flex;"><span>    all_val <span style="color:#f92672">=</span> aq_t[aq_t[<span style="color:#e6db74">&#39;stationId&#39;</span>] <span style="color:#f92672">==</span> s]
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> len(all_val) <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">0</span>:
+</span></span><span style="display:flex;"><span>      avg_val <span style="color:#f92672">=</span> sum(all_val[<span style="color:#e6db74">&#39;valeur&#39;</span>]) <span style="color:#f92672">/</span> len(all_val[<span style="color:#e6db74">&#39;valeur&#39;</span>])
+</span></span><span style="display:flex;"><span>      avg_res[s] <span style="color:#f92672">=</span> avg_val
+</span></span><span style="display:flex;"><span>  avg_res_lst<span style="color:#f92672">.</span>append(avg_res)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>stations <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_csv(<span style="color:#e6db74">&#39;liste-des-stations-rsqa.csv&#39;</span>)
+</span></span><span style="display:flex;"><span>stations <span style="color:#f92672">=</span> stations<span style="color:#f92672">.</span>set_index(<span style="color:#e6db74">&#39;numero_station&#39;</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> i <span style="color:#f92672">in</span> range(<span style="color:#ae81ff">0</span>, len(aq_poll_types)):
+</span></span><span style="display:flex;"><span>  stations[aq_poll_types[i]] <span style="color:#f92672">=</span> avg_res_lst[i]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>stations<span style="color:#f92672">.</span>head()
+</span></span></code></pre></div><table>
+<thead>
+<tr>
+<th style="text-align:right">numero_station</th>
+<th style="text-align:right">SNPA</th>
+<th style="text-align:left">statut</th>
+<th style="text-align:left">nom</th>
+<th style="text-align:left">adresse</th>
+<th style="text-align:left">arrondissement_ville</th>
+<th style="text-align:right">latitude</th>
+<th style="text-align:right">longitude</th>
+<th style="text-align:right">X</th>
+<th style="text-align:right">Y</th>
+<th style="text-align:right">secteur_id</th>
+<th style="text-align:left">secteur_nom</th>
+<th style="text-align:right">hauteur</th>
+<th style="text-align:right">CO</th>
+<th style="text-align:right">O3</th>
+<th style="text-align:right">NO2</th>
+<th style="text-align:right">PM</th>
+<th style="text-align:right">SO2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">1</td>
+<td style="text-align:right">50102</td>
+<td style="text-align:left">fermé</td>
+<td style="text-align:left">Jardin Botanique</td>
+<td style="text-align:left">Jardin Botanique, Montréal</td>
+<td style="text-align:left">Rosemont-La Petite-Patrie</td>
+<td style="text-align:right">45.5622</td>
+<td style="text-align:right">-73.5718</td>
+<td style="text-align:right">299196</td>
+<td style="text-align:right">5.04692e+06</td>
+<td style="text-align:right">1</td>
+<td style="text-align:left">Centre-Ville</td>
+<td style="text-align:right">4</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+</tr>
+<tr>
+<td style="text-align:right">3</td>
+<td style="text-align:right">50103</td>
+<td style="text-align:left">ouvert</td>
+<td style="text-align:left">Saint-Jean-Baptiste</td>
+<td style="text-align:left">1050 A, St-Jean-Baptiste</td>
+<td style="text-align:left">Rivière-des-Prairies</td>
+<td style="text-align:right">45.641</td>
+<td style="text-align:right">-73.4997</td>
+<td style="text-align:right">304825</td>
+<td style="text-align:right">5.05568e+06</td>
+<td style="text-align:right">4</td>
+<td style="text-align:left">Est</td>
+<td style="text-align:right">4</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">15.7134</td>
+<td style="text-align:right">2.27282</td>
+<td style="text-align:right">11.279</td>
+<td style="text-align:right">1.29435</td>
+</tr>
+<tr>
+<td style="text-align:right">6</td>
+<td style="text-align:right">50124</td>
+<td style="text-align:left">ouvert</td>
+<td style="text-align:left">Anjou</td>
+<td style="text-align:left">7650 rue Châteauneuf</td>
+<td style="text-align:left">Anjou</td>
+<td style="text-align:right">45.6028</td>
+<td style="text-align:right">-73.5589</td>
+<td style="text-align:right">300207</td>
+<td style="text-align:right">5.05144e+06</td>
+<td style="text-align:right">4</td>
+<td style="text-align:left">Est</td>
+<td style="text-align:right">12</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">14.1824</td>
+<td style="text-align:right">2.89384</td>
+<td style="text-align:right">11.4153</td>
+<td style="text-align:right">0.992231</td>
+</tr>
+</tbody>
+</table>
+<p><em>This table has been shortened for the sake of length</em></p>
+<p>Hmm, I don&rsquo;t like how a lot of the stations lack air pollution data. I did foreshadow to this earlier. Regardless, there is still overlap with some
+<em>arrondissements</em> having multiple groupings of data. I just pruned this manually to get a unique subset of data:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span>stations<span style="color:#f92672">.</span>arrondissement_ville <span style="color:#f92672">=</span> stations<span style="color:#f92672">.</span>arrondissement_ville<span style="color:#f92672">.</span>str<span style="color:#f92672">.</span>lower()
+</span></span><span style="display:flex;"><span>aq_arron <span style="color:#f92672">=</span> stations[<span style="color:#e6db74">&#39;arrondissement_ville&#39;</span>]<span style="color:#f92672">.</span>unique()
+</span></span><span style="display:flex;"><span>stations_drp <span style="color:#f92672">=</span> stations<span style="color:#f92672">.</span>drop([<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">7</span>,<span style="color:#ae81ff">13</span>,<span style="color:#ae81ff">29</span>,<span style="color:#ae81ff">12</span>,<span style="color:#ae81ff">43</span>,<span style="color:#ae81ff">49</span>,<span style="color:#ae81ff">55</span>,<span style="color:#ae81ff">59</span>,<span style="color:#ae81ff">61</span>,<span style="color:#ae81ff">68</span>], axis<span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>)
+</span></span></code></pre></div><p>Which now we can finally merge with our shapefile to get our final datatable:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span>mrl <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_csv(<span style="color:#e6db74">&#39;montreal_shapefile.csv&#39;</span>)
+</span></span><span style="display:flex;"><span>mrl<span style="color:#f92672">.</span>district <span style="color:#f92672">=</span> mrl<span style="color:#f92672">.</span>district<span style="color:#f92672">.</span>str<span style="color:#f92672">.</span>lower()
+</span></span><span style="display:flex;"><span>mrl_stations <span style="color:#f92672">=</span> mrl<span style="color:#f92672">.</span>merge(stations_drp, left_on<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;district&#34;</span>, right_on<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;arrondissement_ville&#34;</span>, how<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;left&#34;</span>)
+</span></span><span style="display:flex;"><span>mrl_stations<span style="color:#f92672">.</span>head()
+</span></span></code></pre></div><table>
+<thead>
+<tr>
+<th style="text-align:right"></th>
+<th style="text-align:right">cartodb_id</th>
+<th style="text-align:left">district</th>
+<th style="text-align:left">type</th>
+<th style="text-align:right">SNPA</th>
+<th style="text-align:left">statut</th>
+<th style="text-align:left">nom</th>
+<th style="text-align:left">adresse</th>
+<th style="text-align:left">arrondissement_ville</th>
+<th style="text-align:right">latitude</th>
+<th style="text-align:right">longitude</th>
+<th style="text-align:right">X</th>
+<th style="text-align:right">Y</th>
+<th style="text-align:right">secteur_id</th>
+<th style="text-align:left">secteur_nom</th>
+<th style="text-align:right">hauteur</th>
+<th style="text-align:right">CO</th>
+<th style="text-align:right">O3</th>
+<th style="text-align:right">NO2</th>
+<th style="text-align:right">PM</th>
+<th style="text-align:right">SO2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">0</td>
+<td style="text-align:right">1</td>
+<td style="text-align:left">ahuntsic-cartierville</td>
+<td style="text-align:left">BOROUGH</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+</tr>
+<tr>
+<td style="text-align:right">1</td>
+<td style="text-align:right">11</td>
+<td style="text-align:left">lachine</td>
+<td style="text-align:left">BOROUGH</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+</tr>
+<tr>
+<td style="text-align:right">2</td>
+<td style="text-align:right">12</td>
+<td style="text-align:left">l’île-bizard–sainte-geneviève</td>
+<td style="text-align:left">BOROUGH</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+</tr>
+<tr>
+<td style="text-align:right">3</td>
+<td style="text-align:right">20</td>
+<td style="text-align:left">pierrefonds-roxboro</td>
+<td style="text-align:left">BOROUGH</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:left">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">nan</td>
+</tr>
+<tr>
+<td style="text-align:right">4</td>
+<td style="text-align:right">23</td>
+<td style="text-align:left">rivière-des-prairies</td>
+<td style="text-align:left">BOROUGH</td>
+<td style="text-align:right">50103</td>
+<td style="text-align:left">ouvert</td>
+<td style="text-align:left">Saint-Jean-Baptiste</td>
+<td style="text-align:left">1050 A, St-Jean-Baptiste</td>
+<td style="text-align:left">rivière-des-prairies</td>
+<td style="text-align:right">45.641</td>
+<td style="text-align:right">-73.4997</td>
+<td style="text-align:right">304825</td>
+<td style="text-align:right">5.05568e+06</td>
+<td style="text-align:right">4</td>
+<td style="text-align:left">Est</td>
+<td style="text-align:right">4</td>
+<td style="text-align:right">nan</td>
+<td style="text-align:right">15.7134</td>
+<td style="text-align:right">2.27282</td>
+<td style="text-align:right">11.279</td>
+<td style="text-align:right">1.29435</td>
+</tr>
+</tbody>
+</table>
+<p>I have dropped the column that contains the geometry of Montreal itself because that is just a large string of numbers. Anyhow, I don&rsquo;t like the immense amount
+of <code>NaNs</code> in the data. But, I&rsquo;ll just pretend that it doesn&rsquo;t matter and move on. I am here to mostly learn about how to write out the code to do this sort of thing anyhow!</p>
+<p>Regardless, the next thing we can do is actually visualize all of our data itself across each of the pollutant types onto Montreal.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span>montreal_shape <span style="color:#f92672">=</span> gpd<span style="color:#f92672">.</span>read_file(<span style="color:#e6db74">&#39;montreal_shapefile.geojson&#39;</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>montreal_shape<span style="color:#f92672">.</span>district <span style="color:#f92672">=</span> mrl<span style="color:#f92672">.</span>district
+</span></span><span style="display:flex;"><span>mrl_stations_shp <span style="color:#f92672">=</span> montreal_shape<span style="color:#f92672">.</span>merge(stations_drp, left_on<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;district&#34;</span>, right_on<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;arrondissement_ville&#34;</span>, how<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;left&#34;</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>norm <span style="color:#f92672">=</span> TwoSlopeNorm(vmin<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, vcenter<span style="color:#f92672">=</span><span style="color:#ae81ff">25</span>, vmax<span style="color:#f92672">=</span><span style="color:#ae81ff">50</span>)
+</span></span><span style="display:flex;"><span>cbar <span style="color:#f92672">=</span> plt<span style="color:#f92672">.</span>cm<span style="color:#f92672">.</span>ScalarMappable(norm<span style="color:#f92672">=</span>norm, cmap<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;OrRd&#39;</span>)
+</span></span><span style="display:flex;"><span>fig<span style="color:#f92672">.</span>colorbar(cbar, ax<span style="color:#f92672">=</span>ax)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>fig,((ax,ax1),(ax2,ax3),(ax4,ax5)) <span style="color:#f92672">=</span> plt<span style="color:#f92672">.</span>subplots(nrows<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>, ncols<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, figsize<span style="color:#f92672">=</span>(<span style="color:#ae81ff">15</span>,<span style="color:#ae81ff">14</span>))
+</span></span><span style="display:flex;"><span>mrl_stations_shp<span style="color:#f92672">.</span>plot(column<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;CO&#39;</span>, legend<span style="color:#f92672">=</span><span style="color:#66d9ef">True</span>, cmap<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;OrRd&#39;</span>, norm<span style="color:#f92672">=</span>norm, missing_kwds<span style="color:#f92672">=</span>{
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#34;color&#34;</span>: <span style="color:#e6db74">&#34;lightgrey&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#34;edgecolor&#34;</span>: <span style="color:#e6db74">&#34;blue&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#34;hatch&#34;</span>: <span style="color:#e6db74">&#34;///&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#e6db74">&#34;label&#34;</span>: <span style="color:#e6db74">&#34;Missing Arrondissements&#34;</span>
+</span></span><span style="display:flex;"><span>}, ax<span style="color:#f92672">=</span>ax)
+</span></span><span style="display:flex;"><span>ax<span style="color:#f92672">.</span>set_axis_off()
+</span></span><span style="display:flex;"><span><span style="color:#f92672">...</span>
+</span></span></code></pre></div><p><em>The above code shows the example for just one of the plots, the rest follow the same methadology, just changing the particular pollutant.</em></p>
+<figure>
+  <p style="text-align:center;"><img src="images/montreal_air_pollution_by_pollutant.png" alt="chart matrix of air projection in Monreal" style="width: 90%; height: auto;"></p>
+  <figcaption style="font-size: 12px; text-align:center;">Air Pollution in Montreal by Pollutant Type</figcaption>
+</figure>
+<p>Yeah, a lot of unknown data there. Interestingly, pollution of PM (particular matter) appears to be the worst here, whereas the rest of the pollution
+isn&rsquo;t too bad at all, at least as far as I can tell. Everything here appears to fall witin the 1-25 range anyhow, which is defined by the city of Montreal
+as the range for air pollution to be at a &ldquo;good&rdquo; level.</p>
+<p>Hmm, now we can consider the <code>osmnx</code> factor. Particularly, I want to see which areas in Montreal are zoned for industral landuse, and then project that onto
+the air pollution. First, let&rsquo;s display the areas zoned for industrial use:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python3" data-lang="python3"><span style="display:flex;"><span>montreal <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Montreal, Quebec, Canada&#34;</span>
+</span></span><span style="display:flex;"><span>area <span style="color:#f92672">=</span> ox<span style="color:#f92672">.</span>geocode_to_gdf(montreal)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>constr_tags <span style="color:#f92672">=</span> {<span style="color:#e6db74">&#39;landuse&#39;</span>:[<span style="color:#e6db74">&#39;industrial&#39;</span>]}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>parks <span style="color:#f92672">=</span> ox<span style="color:#f92672">.</span>features_from_place(montreal, constr_tags)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>fig, ax <span style="color:#f92672">=</span> plt<span style="color:#f92672">.</span>subplots(figsize<span style="color:#f92672">=</span>(<span style="color:#ae81ff">10</span>,<span style="color:#ae81ff">6</span>))
+</span></span><span style="display:flex;"><span>area<span style="color:#f92672">.</span>plot(ax<span style="color:#f92672">=</span>ax, facecolor<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;white&#39;</span>, zorder<span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>)
+</span></span><span style="display:flex;"><span>edges<span style="color:#f92672">.</span>plot(ax<span style="color:#f92672">=</span>ax, linewidth<span style="color:#f92672">=</span><span style="color:#ae81ff">0.5</span>, edgecolor<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;dimgrey&#39;</span>, zorder<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>parks<span style="color:#f92672">.</span>plot(ax<span style="color:#f92672">=</span>ax, color<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;#fa7474&#39;</span>, alpha<span style="color:#f92672">=</span><span style="color:#ae81ff">0.7</span>, markersize<span style="color:#f92672">=</span><span style="color:#ae81ff">10</span>, zorder<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)
+</span></span><span style="display:flex;"><span>plt<span style="color:#f92672">.</span>axis(<span style="color:#e6db74">&#39;off&#39;</span>)
+</span></span></code></pre></div><figure>
+  <p style="text-align:center;"><img src="images/montreal_industrial_zoning.png" alt="Industrial Zoning in Montreal" style="width: 70%; height: auto;"></p>
+  <figcaption style="font-size: 12px; text-align:center;">Industrial Zoning in Montreal</figcaption>
+</figure>
+<p>And now that we have that! We can just overlay the industrial zoning parts onto one of our <code>geopandas</code> graphs from earlier. In this case, I&rsquo;ll just
+settle on the one that shows the particulate matter pollution as that was the most prevalent one:</p>
+<figure>
+  <p style="text-align:center;"><img src="images/montreal_industrial_zoning_air_pollution.png" alt="Air Pollution vs. Zoning in Montreal" style="width: 70%; height: auto;"></p>
+  <figcaption style="font-size: 12px; text-align:center;">Particular Matter Air Pollution vs. Industrial Zoning in Montreal</figcaption>
+</figure>
+<p>And there we are! We can see that there is a reasonable amount of areas zoned for industrial use in the city, and we can relate that to areas of air pollution.
+This would be a lot nicer if we had more rich data on the air pollution in the particular <em>arrondissements</em> of Montreal, but I think this is reasonable as a
+teaching tool, at least for me.</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

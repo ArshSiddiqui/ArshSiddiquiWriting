@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Short Stories on Arsh Siddiqui</title>
+    <link>https://arshsiddiqui.pages.dev/shortstories/</link>
+    <description>Recent content in Short Stories on Arsh Siddiqui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://arshsiddiqui.pages.dev/shortstories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real Programmers Use Gmail</title>
+      <link>https://arshsiddiqui.pages.dev/shortstories/realprogrammersusegmail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/shortstories/realprogrammersusegmail/</guid>
+      <description>Real Programmers Use Gmail&#xD;#&#xD;I was recently having a conversation with a good friend of mine from the university. We were both students of the computer, or Computer Science majors as most people knew us by. During this conversation, I happened upon a question then that did intrigue me greatly: “What do you use to code?”.&#xA;See, this programmer (along with many others at my school) happen to use the IDE (the meaning of which doesn’t matter, but I DuckDuckGoed it, and it means Integrated Development Environment if you really care) of Eclipse.</description>
+    </item>
+  </channel>
+</rss>

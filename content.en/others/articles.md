@@ -102,6 +102,11 @@ A historical mainstay of the internet, and what it was like being on the recievi
 interesting to see discussion of an internet that feels like the "wild wild west", so to speak, especially considering 
 that all of this discussion was from before I was even born. It lends a certain form of mystique to the story.
 
+## 1981
+___
+[Cost-Benefit Analysis: An Ethical Critique](https://web.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/CostBenefit.pdf)  
+As an aspirational environmental economist, economics tends to fry the brain to reimagine and reconsider what itself is from everybody's own perception. I think that the way that economics is presented in modern society is rather curious compared to what it can be considered to be. This article helped me reconsider some of the core concepts and ideas behind economics.
+
 ## 1968
 ___
 [The Events in May: A Paris Notebook -- II](https://www.newyorker.com/magazine/1968/09/21/the-events-in-may-a-paris-notebook-ii)  
