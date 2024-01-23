@@ -9,8 +9,6 @@ These are some of the best short stories I have read. These have made me feel th
 feel reading stories and think about things more deeply than I would otherwise, or maybe they were just a 
 fun read. They are organized in terms of publication date.
 
-&nbsp;  
-
 ## 2023
 ___
 [The Third Law of Magic](https://www.theatlantic.com/magazine/archive/2023/03/ben-okri-short-story-third-law-magic/672783/?utm_source=pocket_saves)  
@@ -38,3 +36,8 @@ ___
 I'm not totally sure how to describe this short story, except perhaps in that it is wonderful and excellent 
 in full part. The story feels both familiar and distant - in ways that I feel and perhaps want to feel (or 
 don't want to feel?), I can't say for sure.
+
+## 1957
+___
+[Profession](https://www.inf.ufpr.br/renato/profession.html)  
+I'm not sure what to say about this, it's just a really good science fiction story. I read it in, almost totally, one sitting, and it pretty much immediately captured me. Isaac Asimov is, of course, quite a fantastic writer, and this story does still feel really "modern" to some degree, at least in the way it reads to me.
