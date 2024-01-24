@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[Candide](/fr/bookreviews/candide)
+
 [Pleurer Dans Le H Mart](/fr/bookreviews/cyring_in_hmart)
 
 [Les Apprenants](/fr/bookreviews/the_learners)

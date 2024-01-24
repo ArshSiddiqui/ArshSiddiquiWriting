@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+[Candide](/bookreviews/candide)
+
 [Crying In H Mart](/bookreviews/crying_in_hmart)
 
 [The Learners](/bookreviews/the_learners)
