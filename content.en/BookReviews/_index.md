@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+[A Streetcar Named Desire](/bookreviews/a_streetcar_named_desire)
+
 [Candide](/bookreviews/candide)
 
 [Crying In H Mart](/bookreviews/crying_in_hmart)
