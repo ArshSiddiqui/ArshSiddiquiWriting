@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[Un Gentleman à Moscou](/fr/bookreviews/a_gentleman_in_moscow)
+
 [Un Tramway Nommé Désir](/fr/bookreviews/a_streetcar_named_desire)
 
 [Candide](/fr/bookreviews/candide)
