@@ -5,37 +5,29 @@
     <link>https://arshsiddiqui.pages.dev/fr/docs/</link>
     <description>Recent content in Docs on Arsh Siddiqui</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 16:20:02 -0500</lastBuildDate><atom:link href="https://arshsiddiqui.pages.dev/fr/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <lastBuildDate>Sat, 25 Feb 2023 16:20:02 -0500</lastBuildDate>
+    <atom:link href="https://arshsiddiqui.pages.dev/fr/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://arshsiddiqui.pages.dev/fr/docs/aboutme/</link>
       <pubDate>Sat, 25 Feb 2023 16:20:02 -0500</pubDate>
-      
       <guid>https://arshsiddiqui.pages.dev/fr/docs/aboutme/</guid>
-      <description>Hello, my name is Arsh Siddiqui.
-This website contains a portfolio of my writing.
-Hopefully you&amp;rsquo;ll enjoy it&amp;hellip;
-Thanks for coming along!</description>
+      <description>Hello, my name is Arsh Siddiqui.&#xA;This website contains a portfolio of my writing.&#xA;Hopefully you&amp;rsquo;ll enjoy it&amp;hellip;&#xA;Thanks for coming along!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://arshsiddiqui.pages.dev/fr/docs/page-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://arshsiddiqui.pages.dev/fr/docs/page-one/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://arshsiddiqui.pages.dev/fr/docs/page-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://arshsiddiqui.pages.dev/fr/docs/page-two/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

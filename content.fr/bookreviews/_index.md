@@ -5,13 +5,17 @@ type: docs
 
 # Critiques des Livres
 
-Toutes mes critiques des livres. Elles sont adaptés de mon Goodreads. Je voudrais les sauvegarder
+Tous les livres que j'ai lu. Les livres avec mes critiques sont adaptés de mon Goodreads. Je voudrais les sauvegarder
 ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads.
 
 &nbsp;  
 
 ## 2024
 ___
+[Shopgirl](/fr/bookreviews/shopgirl)
+
+Standart Course HSK1
+
 [Un Gentleman à Moscou](/fr/bookreviews/a_gentleman_in_moscow)
 
 [Un Tramway Nommé Désir](/fr/bookreviews/a_streetcar_named_desire)

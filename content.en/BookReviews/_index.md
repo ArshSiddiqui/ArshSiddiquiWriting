@@ -5,13 +5,17 @@ type: docs
 
 # Book Reviews
 
-All of my book reviews, these are adapted from my Goodreads. I intend to save them here, out of
+All the books I have read. The books I have reviews for are adapted from my Goodreads. I intend to save them here, out of
 precaution, due to saving issues I've had on Goodreads in the past.
 
 &nbsp;  
 
 ## 2024
 ___
+[Shopgirl](/bookreviews/shopgirl)
+
+Standard Course HSK1
+
 [A Gentleman in Moscow](/bookreviews/a_gentleman_in_moscow)
 
 [A Streetcar Named Desire](/bookreviews/a_streetcar_named_desire)

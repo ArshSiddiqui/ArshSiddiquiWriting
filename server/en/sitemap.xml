@@ -14,7 +14,45 @@
                 href="https://arshsiddiqui.pages.dev/bookreviews/afarewelltoarms/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/a_gentleman_in_moscow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/a_gentleman_in_moscow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/a_gentleman_in_moscow/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/a_streetcar_named_desire/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/a_streetcar_named_desire/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/a_streetcar_named_desire/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/ataleoftwocities/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/candide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/candide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/candide/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/crying_in_hmart/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/deathofasalesman/</loc>
   </url><url>
@@ -34,7 +72,9 @@
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/technical/generatedpoe/</loc>
   </url><url>
-    <loc>https://arshsiddiqui.pages.dev/technical/headlinesentiment/</loc>
+    <loc>https://arshsiddiqui.pages.dev/technical/los_angeles_grocery_stores/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/technical/headlinefrequency/headlinesentiment/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/if_on_a_winters_night_a_traveler/</loc>
     <xhtml:link
@@ -64,6 +104,8 @@
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/technical/monopolyfreq/</loc>
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/technical/montreal_air_pollution/</loc>
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/murderontheorientexpress/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/neverwhere/</loc>
@@ -84,7 +126,7 @@
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/poemsofrome/</loc>
   </url><url>
-    <loc>https://arshsiddiqui.pages.dev/oldwriting/realprogrammersusegmail/</loc>
+    <loc>https://arshsiddiqui.pages.dev/shortstories/realprogrammersusegmail/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/romeoandjulliet/</loc>
   </url><url>
@@ -101,6 +143,30 @@
     <loc>https://arshsiddiqui.pages.dev/bookreviews/theeleganceofthehedgehog/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/theforest/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/the_grip_of_film/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_grip_of_film/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/the_grip_of_film/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/the_learners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_learners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/the_learners/"
+                />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/themanwhodiedtwice/</loc>
   </url><url>
@@ -200,7 +266,6 @@
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/posts/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -238,7 +303,11 @@
                 href="https://arshsiddiqui.pages.dev/categories/"
                 />
   </url><url>
-    <loc>https://arshsiddiqui.pages.dev/oldwriting/</loc>
+    <loc>https://arshsiddiqui.pages.dev/technical/learning_osmnx/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/others/my_listens/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/others/other_websites/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/others/</loc>
     <xhtml:link
@@ -264,7 +333,11 @@
                 href="https://arshsiddiqui.pages.dev/poetry/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/research/</loc>
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/blog/self_perception_in_fashion/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/shortstories/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/tags/</loc>
     <xhtml:link

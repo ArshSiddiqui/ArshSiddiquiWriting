@@ -5,6 +5,7 @@
     <link>https://arshsiddiqui.pages.dev/poetry/</link>
     <description>Recent content in Poetry on Arsh Siddiqui</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://arshsiddiqui.pages.dev/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://arshsiddiqui.pages.dev/poetry/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
