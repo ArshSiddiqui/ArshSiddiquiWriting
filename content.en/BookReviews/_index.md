@@ -60,6 +60,8 @@ ___
 
 [The Elegance of the Hedgehog](/bookreviews/theeleganceofthehedgehog/)
 
+[Kafka on the Shore](/bookreviews/kafka_on_the_shore)
+
 [The Man Who Died Twice](/bookreviews/themanwhodiedtwice/)
 
 [Utopia](/bookreviews/utopia/)
