@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[Le Club de la chance](/fr/bookreviews/joy_luck_club)
+
 [Shopgirl](/fr/bookreviews/shopgirl)
 
 Standart Course HSK1

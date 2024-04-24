@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+[The Joy Luck Club](/bookreviews/joy_luck_club)
+
 [Shopgirl](/bookreviews/shopgirl)
 
 Standard Course HSK1
