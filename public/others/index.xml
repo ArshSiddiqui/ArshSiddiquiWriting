@@ -15,6 +15,13 @@
       <description>My Listens&#xD;#&#xD;This will update every two hours as the music itself that I listen to changes. The data comes from the Spotify API, and was encorporated with Spotipy. Short Term Listens&#xD;#&#xD;These are the songs I have been listening to the most in the past four weeks.&#xA;Medium Term Listens&#xD;#&#xD;These are the songs I have been listening to the most in about the past half year.</description>
     </item>
     <item>
+      <title>My Listens</title>
+      <link>https://arshsiddiqui.pages.dev/others/my_listens_spotify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/others/my_listens_spotify/</guid>
+      <description>My Listens&#xD;#&#xD;This will update every two hours as the music itself that I listen to changes. The data comes from the Spotify API, and was encorporated with Spotipy. Short Term Listens&#xD;#&#xD;These are the songs I have been listening to the most in the past four weeks.&#xA;Medium Term Listens&#xD;#&#xD;These are the songs I have been listening to the most in about the past half year.</description>
+    </item>
+    <item>
       <title>Other Websites</title>
       <link>https://arshsiddiqui.pages.dev/others/other_websites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -9,8 +9,9 @@ This has all of my other curiosities and interests. Or perhaps things I just fel
 to catalogue.
 
 &nbsp;  
+[My Listens](/others/my_listens)
 
-[My Listens](/others/my_listens)  
+[My Listens (Spotify)](/others/my_listens_spotify)  
 
 [The Best Articles I Have Read](/others/articles)  
 

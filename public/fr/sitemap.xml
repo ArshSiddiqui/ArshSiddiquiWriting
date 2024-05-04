@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/candide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/candide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/candide/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/everyman/</loc>
     <xhtml:link
                 rel="alternate"
@@ -52,6 +64,18 @@
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/theforest/</loc>
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/joy_luck_club/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/joy_luck_club/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/joy_luck_club/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/theovercoat/</loc>
     <xhtml:link
                 rel="alternate"
@@ -90,6 +114,18 @@
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/cyring_in_hmart/</loc>
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/shopgirl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/shopgirl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/shopgirl/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/the_grip_of_film/</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,6 +148,30 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_martian_chronicles/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/a_gentleman_in_moscow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/a_gentleman_in_moscow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/a_gentleman_in_moscow/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/a_streetcar_named_desire/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/a_streetcar_named_desire/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/a_streetcar_named_desire/"
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/docs/aboutme/</loc>

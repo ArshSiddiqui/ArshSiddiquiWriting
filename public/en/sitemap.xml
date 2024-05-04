@@ -14,7 +14,43 @@
                 href="https://arshsiddiqui.pages.dev/bookreviews/afarewelltoarms/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/a_gentleman_in_moscow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/a_gentleman_in_moscow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/a_gentleman_in_moscow/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/a_streetcar_named_desire/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/a_streetcar_named_desire/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/a_streetcar_named_desire/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/ataleoftwocities/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/candide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/candide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/candide/"
+                />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/crying_in_hmart/</loc>
   </url><url>
@@ -51,6 +87,8 @@
                 hreflang="en"
                 href="https://arshsiddiqui.pages.dev/bookreviews/if_on_a_winters_night_a_traveler/"
                 />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/kafka_on_the_shore/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/kafkaontheshore/</loc>
   </url><url>
@@ -96,6 +134,18 @@
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/sherlockholmesvolume1/</loc>
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/shopgirl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/shopgirl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/shopgirl/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/technical/stockanalysis/stockanalysis/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/stoner/</loc>
@@ -118,6 +168,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://arshsiddiqui.pages.dev/bookreviews/the_grip_of_film/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/bookreviews/joy_luck_club/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/joy_luck_club/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/joy_luck_club/"
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/bookreviews/the_learners/</loc>
@@ -270,6 +332,8 @@
     <loc>https://arshsiddiqui.pages.dev/technical/learning_osmnx/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/others/my_listens/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/others/my_listens_spotify/</loc>
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/others/other_websites/</loc>
   </url><url>
