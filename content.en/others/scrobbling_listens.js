@@ -12,7 +12,7 @@
 // }
 
 async function getData() {
-    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/last_week_scrobble.json');
+    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/past_week_scrobble.json');
     const data = await response.json();
     let songlist = document.getElementById('songs');
     let lev = 1;
@@ -29,7 +29,7 @@ async function getData() {
 }
 
 async function getMedData() {
-    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/past_year_scrobble.json');
+    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/last_year_scrobble.json');
     const data = await response.json();
     console.log(data)
     let songlist = document.getElementById('med-songs');
