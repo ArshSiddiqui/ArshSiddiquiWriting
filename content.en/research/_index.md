@@ -8,8 +8,6 @@ type: docs
 This is all of the research publications I have been involved in and worked on over the past
 number of years. These include publications in numerous formats.
 
-&nbsp;  
-
 ## Journals 
 ___
 Dam, A., Siddiqui, A., Leclercq, C., & Jeon, M. (in press). Taxonomy and definition of audio augmented reality (AAR): A grounded theory study. International Journal of Human-Computer Studies.  
