@@ -12,7 +12,7 @@
 // }
 
 async function getData() {
-    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/past_week_scrobble.json');
+    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/last_week_scrobble.json');
     const data = await response.json();
     let songlist = document.getElementById('songs');
     let lev = 1;
