@@ -60,7 +60,7 @@ Violent crime in SF has been overall trending downward. Noticeably, it was quite
 What if we were to consider homelessness? This is another issue that brings a lot of ire to people with claims that homelessness has gone up a lot in San Francisco.  
 
 <figure>
-  <p style="text-align:center;"><img src=images/img6.png alt="Homelessness in San Francisco, 2005-2022" style="width: 90%; height: auto;"></p>
+  <p style="text-align:center;"><img src=images/img7.png alt="Homelessness in San Francisco, 2005-2022" style="width: 90%; height: auto;"></p>
   <figcaption style="font-size: 11px; text-align:center;">Homelessness in San Francisco, 2005-2022</figcaption>
 </figure>
 
