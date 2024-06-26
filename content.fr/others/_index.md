@@ -10,6 +10,6 @@ les cataloguer.
 
 &nbsp;  
 
-[Les meilleurs articles que j'ai lu](/others/articles)  
+[Les meilleurs articles que j'ai lu](/fr/others/articles)  
 
 [Les meilleurs nouvelles que j'ai lu](/others/shortstories)
