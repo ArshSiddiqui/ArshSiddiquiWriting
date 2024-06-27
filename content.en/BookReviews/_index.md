@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+[The Hound of The Baskervilles](/bookreviews/the_hound_of_the_baskervilles)
+
 [1Q84](/bookreviews/1q84)
 
 [The Joy Luck Club](/bookreviews/joy_luck_club)

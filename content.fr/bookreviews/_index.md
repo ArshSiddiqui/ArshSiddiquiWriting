@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[Le Chien des Baskervilles](/fr/bookreviews/the_hound_of_the_baskervilles)
+
 [1Q84](/fr/bookreviews/1q84)
 
 [Le Club de la chance](/fr/bookreviews/joy_luck_club)
