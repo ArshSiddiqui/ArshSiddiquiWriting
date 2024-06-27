@@ -9,6 +9,8 @@ My thoughts on the most random and unconnected of things.
 
 # 2024
 ___
+[Quality Is Worth It](./quality_is_worth_it/) <span style="float: right">June 27, 2024</span>
+
 [Why San Francisco?](./why_san_francisco/) <span style="float: right">May 8, 2024</span>
 
 # 2023
