@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[The Monk of Mokha](/fr/bookreviews/the_monk_of_mokha)
+
 [Le Chien des Baskervilles](/fr/bookreviews/the_hound_of_the_baskervilles)
 
 [1Q84](/fr/bookreviews/1q84)

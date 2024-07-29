@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+[The Monk of Mokha](/bookreviews/the_monk_of_mokha)
+
 [The Hound of The Baskervilles](/bookreviews/the_hound_of_the_baskervilles)
 
 [1Q84](/bookreviews/1q84)
