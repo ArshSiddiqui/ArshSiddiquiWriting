@@ -10,7 +10,9 @@ number of years. These include publications in numerous formats.
 
 ## Journals 
 ___
-Dam, A., Siddiqui, A., Leclercq, C., & Jeon, M. (in press). Taxonomy and definition of audio augmented reality (AAR): A grounded theory study. International Journal of Human-Computer Studies.  
+Dam, A., Lee, Y., Siddiqui, A., Lages, W. S., & Jeon, M. (2024).  Audio augmented reality using sonification to enhance visual art experiences: Lessons learned. International Journal of Human-Computer Studies. https://authors.elsevier.com/a/1jTNG3pfaRxOLb
+
+Dam, A., Siddiqui, A., Leclercq, C., & Jeon, M. (2024). Taxonomy and definition of audio augmented reality (AAR): A grounded theory study. International Journal of Human-Computer Studies, 182, 103179. https://authors.elsevier.com/a/1i1eR_ONMr-A2S  
 
 ## Conference Proceedings
 ___
