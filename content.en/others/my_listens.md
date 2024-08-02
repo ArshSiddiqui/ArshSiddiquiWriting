@@ -8,7 +8,7 @@ My inital listens page (below this one in the index) was built upon `Spotipy`. A
 
 As of late, I have been listening to a lot of music by <span id="art1"></span>, <span id="art2"></span>, and <span id="art3"></span>. With respect to the albums I have been listening to, <span id="alb1"></span>, <span id="alb2"></span>, and <span id="alb3"></span> have been coming up a lot. 
 
-## Short Term Listens
+## Week-Term Listens
 These are the songs I have been listening to the most in the past week. 
 ___
 <div class="song-list">
@@ -16,8 +16,15 @@ ___
 </div>
 <script src="../scrobbling_listens.js"></script>
 
-## Medium Term Listens
-These are the songs I have been listening to the most in about the past year.
+## Month-Term Listens
+___
+These are the songs I have been listening to the most in the past month.
+<div class="month-song-list">
+    <p id="month-songs"></p>
+</div>
+
+## Year-Term Listens
+These are the songs I have been listening to the most in the past year.
 ___
 <div class="med-song-list">
     <p id="med-songs"></p>

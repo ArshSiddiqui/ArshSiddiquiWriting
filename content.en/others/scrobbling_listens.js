@@ -28,6 +28,23 @@ async function getData() {
     });
 }
 
+async function getMonthData() {
+    const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/last_month_scrobble.json');
+    const data = await response.json();
+    let songlist = document.getElementById('month-songs');
+    let lev = 1;
+    data.forEach(song => {
+        let elem = document.createElement('p');
+        elem.innerHTML = lev.toString()+". <a href='"+song['song_url']+"'>"+song['name']+"</a>";
+        let singer_elem = document.createElement('span');
+        singer_elem.innerHTML = "<a href='"+song['artist_url']+"'>"+song['artist']+"</a>";
+        singer_elem.style = "float: right;";
+        elem.appendChild(singer_elem);
+        songlist.appendChild(elem);
+        lev = lev + 1;
+    });
+}
+
 async function getMedData() {
     const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/last_year_scrobble.json');
     const data = await response.json();
@@ -87,6 +104,7 @@ async function getOtherData() {
 }
 
 getData();
+getMonthData();
 getMedData();
 getLongData();
 getOtherData();
