@@ -67,18 +67,23 @@ by one of the opening lines:
 
 ## 2020
 ___
-["So Ordered: The Messy Nature of Dress Codes"](https://dieworkwear.com/2020/08/13/so-ordered-the-messy-nature-of-dress-codes/)  
+[So Ordered: The Messy Nature of Dress Codes](https://dieworkwear.com/2020/08/13/so-ordered-the-messy-nature-of-dress-codes/)  
 This articles captures a lot of my feelings and sentiments about dress codes, and especially work environments that 
 "don't have a dress code". I am generally someone who either dresses too formally or too *fashion*, so this did 
 resonate with me.  
 
-["Robert Pattinson: A Dispatch From Isolation"](https://www.gq.com/story/robert-pattinson-on-batman-tenet-isolation-june-cover)  
+[Robert Pattinson: A Dispatch From Isolation](https://www.gq.com/story/robert-pattinson-on-batman-tenet-isolation-june-cover)  
 I don't generally read a lot of articles about celebrities, but this was recommended to me and ended up being so funny
 I couldn't help but enjoy it. It really is the mind of a manic.  
 
+## 2016
+___
+[Founding Farmers Review: Zero stars for the mega-popular D.C. eatery](https://www.washingtonpost.com/lifestyle/food/founding-farmers-review-where-the-biggest-temptation-is-to-leave/2016/06/01/76b2c844-204e-11e6-9e7f-57890b612299_story.html)  
+As a local to the DMV area, this review brings me much joy.
+
 ## 2014
 ___
-["China Expedition 2013: A Tale of Typhoon-Tossed Kudzu"](https://nmnh.typepad.com/the_plant_press/2014/05/china-expedition-2013-a-tale-of-typhoon-tossed-kudzu-by-ashley-n-egan.html)  
+[China Expedition 2013: A Tale of Typhoon-Tossed Kudzu](https://nmnh.typepad.com/the_plant_press/2014/05/china-expedition-2013-a-tale-of-typhoon-tossed-kudzu-by-ashley-n-egan.html)  
 Do you want to learn a lot more about Kudzu than you ever needed to know? Then this article is for you! This actually 
 was a pretty enjoyable article in it of itself, but it did also help to inform some of my poetry, so I could be biased,
 but that is why I'm sharing all of these articles anyhow.
@@ -101,11 +106,6 @@ ___
 A historical mainstay of the internet, and what it was like being on the recieving end of one at the beginning. It is
 interesting to see discussion of an internet that feels like the "wild wild west", so to speak, especially considering 
 that all of this discussion was from before I was even born. It lends a certain form of mystique to the story.
-
-## 1981
-___
-[Cost-Benefit Analysis: An Ethical Critique](https://web.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/CostBenefit.pdf)  
-As an aspirational environmental economist, economics tends to fry the brain to reimagine and reconsider what itself is from everybody's own perception. I think that the way that economics is presented in modern society is rather curious compared to what it can be considered to be. This article helped me reconsider some of the core concepts and ideas behind economics.
 
 ## 1968
 ___
