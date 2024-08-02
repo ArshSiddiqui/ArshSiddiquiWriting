@@ -11,8 +11,6 @@ to catalogue.
 &nbsp;  
 [My Listens](/others/my_listens)
 
-[My Listens (Spotify)](/others/my_listens_spotify)  
-
 [The Best Articles I Have Read](/others/articles)  
 
 [The Best Short Stories I Have Read](/others/shortstories)
