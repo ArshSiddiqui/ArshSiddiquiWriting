@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[Meurtriers sans visage](/fr/bookreviews/faceless_killers)
+
 [America Encore](/fr/bookreviews/america)  
 
 [Les Aventures d'Alice au pays des merveilles et De l'autre côté du miroir](/fr/bookreviews/alice)

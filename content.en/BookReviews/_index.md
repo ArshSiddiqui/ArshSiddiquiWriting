@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+[Faceless Killers](/bookreviews/faceless_killers)
+
 [America Again](/bookreviews/america)  
 
 [Alice's Adventures in Wonderland and Through the Looking-Glass](/bookreviews/alice)
