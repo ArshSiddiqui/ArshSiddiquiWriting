@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+[An Unsuitable Job for a Woman](/bookreviews/unsuitable_job_for_a_woman)
+
 [Faceless Killers](/bookreviews/faceless_killers)
 
 [America Again](/bookreviews/america)  

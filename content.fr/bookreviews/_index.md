@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[La Proie pour l'ombre](/fr/bookreviews/unsuitable_job_for_a_woman)
+
 [Meurtriers sans visage](/fr/bookreviews/faceless_killers)
 
 [America Encore](/fr/bookreviews/america)  
