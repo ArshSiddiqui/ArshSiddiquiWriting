@@ -9,7 +9,7 @@ My thoughts on the most random and unconnected of things.
 
 # 2024
 ___
-[Transportation and Clothing](./transportation_and_clothing/) <span style="float: right">September 9, 2024</span>
+[Transportation and Clothing](./transportation_and_clothing/) <span style="float: right">September 4, 2024</span>
 
 [Quality Is Worth It](./quality_is_worth_it/) <span style="float: right">June 27, 2024</span>
 

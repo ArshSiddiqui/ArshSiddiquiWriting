@@ -5,7 +5,8 @@ type: docs
 
 # Why San Francisco?
 
-**May 8, 2024**
+**May 8, 2024**  
+**Blacksburg, VA**
 
 I traveled to San Francisco late in December of 2023. Going in, I think the only thing I heard spoken of on the six-hour drive from Los Angeles was crime, both from everybody in the car with me and from messages from friends. It felt almost like a knee jerk reaction to bring up crime whenever you hear speak of San Francisco. 
 

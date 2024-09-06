@@ -6,6 +6,7 @@ type: docs
 # The Dangers of a Hyper-Niche Base
 
 **July 3, 2023**  
+**Chicago, IL**
 
 In fashion today, specificity over a niche base of aesthetic or style is becoming a more popular way to sustain a brand. Cult-like followings of certain brands or aesthetics have become more popular than ever, and now brands have seen, or will see, a need to attract these consumers to survive. Attracting this consumer base is no doubt of great importance for the survival of brands, particularly those that are smaller or are still growing. 
 

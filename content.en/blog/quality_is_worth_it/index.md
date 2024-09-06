@@ -6,6 +6,7 @@ type: docs
 # Quality is Worth it 
 
 **June 27, 2024**  
+**Reston, VA**
 
 I find often when talking to people about fashion the question of quality price relationship to come up. Most people I talk with tend to find that the pricing for some pieces of clothing that they find to be rather simple (a sweater or a white shirt, for instance) to be excessively high at certain stores and labels. Often I hear things like "a white shirt shouldn't cost $100, mine cost $30!" While I can understand the feeling that paying $100 for a shirt seems high when all you are used to buying (or all that is marketed towards you or any of us these days) is $30 shirts, your $30 shirt is wildly unsustainable.
 

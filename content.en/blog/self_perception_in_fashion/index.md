@@ -6,6 +6,7 @@ type: docs
 # Self-Perception in Fashion: Why Dress?
 
 **July 7, 2023**  
+**Chicago, IL**
 
 > <p style="font-size: 11px; text-align:right;">So we aren't naked<br/>
 > - Jenny </p>
