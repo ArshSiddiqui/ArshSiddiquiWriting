@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[Le Maître et Marguerite](/fr/bookreviews/the_master_and_margarita)
+
 [La Proie pour l'ombre](/fr/bookreviews/unsuitable_job_for_a_woman)
 
 [Meurtriers sans visage](/fr/bookreviews/faceless_killers)
