@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+[In Praise of Shadows](/bookreviews/in_praise_of_shadows)
+
 [The Master and Margarita](/bookreviews/the_master_and_margarita)
 
 [An Unsuitable Job for a Woman](/bookreviews/unsuitable_job_for_a_woman)

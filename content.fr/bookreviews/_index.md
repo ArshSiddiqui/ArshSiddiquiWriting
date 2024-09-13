@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[éloge de l'ombre](/fr/bookreviews//in_praise_of_shadows)
+
 [Le Maître et Marguerite](/fr/bookreviews/the_master_and_margarita)
 
 [La Proie pour l'ombre](/fr/bookreviews/unsuitable_job_for_a_woman)
