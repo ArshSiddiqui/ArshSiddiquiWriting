@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 
 ## 2024
 ___
+<table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
+
 [In Praise of Shadows](/bookreviews/in_praise_of_shadows)
 
 [The Master and Margarita](/bookreviews/the_master_and_margarita)
@@ -32,9 +34,11 @@ ___
 
 [The Joy Luck Club](/bookreviews/joy_luck_club)
 
+</td><td width="50%" style="vertical-align: top; border-color: transparent">
+
 [Shopgirl](/bookreviews/shopgirl)
 
-Standard Course HSK1
+[Standard Course HSK1](/bookreviews/hsk1)
 
 [A Gentleman in Moscow](/bookreviews/a_gentleman_in_moscow)
 
@@ -46,8 +50,12 @@ Standard Course HSK1
 
 [The Learners](/bookreviews/the_learners)
 
+</td></tr></table>
+
 ## 2023
 ___
+<table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
+
 [The Grip of Film](/bookreviews/the_grip_of_film)
 
 [If on a Winter's Night a Traveler](/bookreviews/if_on_a_winters_night_a_traveler)
@@ -68,14 +76,20 @@ ___
 
 [The Overcoat and Other Short Stories](/bookreviews/theovercoat/)
 
+</td><td width="50%" style="vertical-align: top; border-color: transparent">
+
 [A Farewell to Arms](/bookreviews/afarewelltoarms/)
 
 [The Forest](/bookreviews/theforest/)
 
 [New York Stories](/bookreviews/newyorkstories/)
 
+</td></tr></table>
+
 ## 2022
 ___
+<table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
+
 [Victory](/bookreviews/victory/)
 
 [The Elegance of the Hedgehog](/bookreviews/theeleganceofthehedgehog/)
@@ -96,10 +110,15 @@ ___
 
 [Tell Them of Battles, Kings and Elephants](/bookreviews/tellthemofbattleskingsandelephants/)
 
+</td><td width="50%" style="vertical-align: top; border-color: transparent">
+
 [The Shadow of the Wind](/bookreviews/theshadowofthewind/)
+
+</td></tr></table>
 
 ## 2021
 ___
+<table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
 [Poems of Rome](/bookreviews/poemsofrome/)
 
@@ -109,3 +128,4 @@ ___
 
 [The Count of Monte Cristo](/bookreviews/thecountofmontecristo/)
 
+</td></tr></table>
