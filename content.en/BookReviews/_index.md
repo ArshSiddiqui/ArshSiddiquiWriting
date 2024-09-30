@@ -14,6 +14,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[The Murder of Roger Ackroyd](/bookreviews/roger_ackroyd)
+
 [In Praise of Shadows](/bookreviews/in_praise_of_shadows)
 
 [The Master and Margarita](/bookreviews/the_master_and_margarita)
@@ -32,9 +34,9 @@ ___
 
 [1Q84](/bookreviews/1q84)
 
-[The Joy Luck Club](/bookreviews/joy_luck_club)
-
 </td><td width="50%" style="vertical-align: top; border-color: transparent">
+
+[The Joy Luck Club](/bookreviews/joy_luck_club)
 
 [Shopgirl](/bookreviews/shopgirl)
 
