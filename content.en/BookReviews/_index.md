@@ -14,6 +14,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[The Snows of Venice](/bookreviews/snows_of_venice)
+
 [The Murder of Roger Ackroyd](/bookreviews/roger_ackroyd)
 
 [In Praise of Shadows](/bookreviews/in_praise_of_shadows)
@@ -32,9 +34,10 @@ ___
 
 [The Hound of The Baskervilles](/bookreviews/the_hound_of_the_baskervilles)
 
-[1Q84](/bookreviews/1q84)
 
 </td><td width="50%" style="vertical-align: top; border-color: transparent">
+
+[1Q84](/bookreviews/1q84)
 
 [The Joy Luck Club](/bookreviews/joy_luck_club)
 
