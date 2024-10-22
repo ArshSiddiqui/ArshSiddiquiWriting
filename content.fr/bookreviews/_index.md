@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[Regardez nous danser](/fr/bookreviews/watch_us_dance)
+
 [La Neige de Venise](/fr/bookreviews/snows_of_venice)
 
 [Le Meurtre de Roger Ackroyd](/fr/bookreviews/roger_ackroyd)

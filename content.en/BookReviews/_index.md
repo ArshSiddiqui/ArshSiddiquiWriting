@@ -14,6 +14,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[Watch Us Dance](/bookreviews/watch_us_dance)
+
 [The Snows of Venice](/bookreviews/snows_of_venice)
 
 [The Murder of Roger Ackroyd](/bookreviews/roger_ackroyd)
@@ -32,10 +34,9 @@ ___
 
 [The Monk of Mokha](/bookreviews/the_monk_of_mokha)
 
-[The Hound of The Baskervilles](/bookreviews/the_hound_of_the_baskervilles)
-
-
 </td><td width="50%" style="vertical-align: top; border-color: transparent">
+
+[The Hound of The Baskervilles](/bookreviews/the_hound_of_the_baskervilles)
 
 [1Q84](/bookreviews/1q84)
 
