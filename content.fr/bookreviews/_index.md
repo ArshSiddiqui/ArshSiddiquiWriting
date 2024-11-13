@@ -12,6 +12,10 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2024
 ___
+[Murtre dans la cathédrale](/fr/bookreviews/murder_in_the_cathedral)
+
+[Vrai Style](/fr/bookreviews/true_style)
+
 [Regardez nous danser](/fr/bookreviews/watch_us_dance)
 
 [La Neige de Venise](/fr/bookreviews/snows_of_venice)
