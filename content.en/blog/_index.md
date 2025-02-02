@@ -9,6 +9,8 @@ My thoughts on the most random and unconnected of things.
 
 # 2024
 ___
+[Dressing Heteronormative Again](./dressing_heteronotmative_again/)
+
 [I Want To Flow Like Water: Alaïa Spring/Summer 2025](./alaia_ss_25/) <span style="float: right">September 8, 2024</span>
 
 [Transportation and Clothing](./transportation_and_clothing/) <span style="float: right">September 4, 2024</span>
