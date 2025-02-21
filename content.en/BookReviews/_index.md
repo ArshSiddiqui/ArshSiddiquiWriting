@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[South of the Border, West of the Sun](/bookreviews/south_of_the_border)
+
 [Emergent Tokyo: Designing the Spontaneous City](/bookreviews/emergent_tokyo)
 
 [Kitchen Confidential: Adventures in the Culinary Underbelly](/bookreviews/kitchen_confidential)
