@@ -10,6 +10,10 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 &nbsp;  
 
+## 2025
+___
+[L'Etranger](/fr/bookreviews/stranger)
+
 ## 2024
 ___
 [Murtre dans la cathédrale](/fr/bookreviews/murder_in_the_cathedral)
