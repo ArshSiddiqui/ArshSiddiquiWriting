@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2025
 ___
+[Flâneuse](/fr/bookreviews/flaneuse)
+
 [L'Etranger](/fr/bookreviews/stranger)
 
 ## 2024

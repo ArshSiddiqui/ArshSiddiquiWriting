@@ -1,0 +1,21 @@
+---
+title: Flâneuse
+type: docs
+weight: 10
+---
+
+# Flâneuse  
+
+#### Lauren Elkin
+
+*March 10, 2025*
+
+4/5
+
+I haven't read about the Flâneur, or in this case the Flâneuse, in a very long time. The idea captivated me much when I was younger: that of the idle wanderer in the city who becomes, to some degree, part of the urban fabric as they wander through it. For much of its history, the flâneur was purely a masculine figure, as for a very long time women did not, could not, wander through the city freely by themselves. Part of this came from the perception of women who wandered cities alone as prostitutes, or as otherwise negative individuals. This book wishes to show the relationship between women and their cities in a true light.
+
+I really like a lot of aspects of this book, but I did also feel like there were some things missing, or some things that could have been expanded upon. For one, I liked how Elkin chose a specific figure for each city and chapter, giving each city a richer story that framed it in a historical context and through the wanderings of that person. This also reveals what these cities came to mean for each of these women, be it a refuge, a new life, or something totally different. Elkin's chapter on Tokyo was particularly interesting, even though it heavily focused on her own experience in the city. The chapter was twinged with a lot of negative feelings about her being pushed to move into a city completely foreign to her and for being ridiculed for her cultural misunderstandings. In this way, the book does talk a lot about the experience of being an immigrant, or of being thrust into a new culture. I do wish this book had discussed more the feeling of breaking away from one's home and the changes that it brings upon them. Elkin does talk about this to some degree, in her chapter on New York, but it felt much more related to those that she left behind, as opposed to how she herself feels. I think there is a pretty big difference between the experience one has of a city, when they are staying in a city for a short period of time versus living there full time. Elkin does talk a bit about this with her experience of Paris, but I think it could have been more in depth. I wonder how the city changes when you move away from seeing it in the lens of a foreigner, someone culturally removed though perhaps wishing to adapt, as opposed to the lens of a tourist, when you will be returning home soon enough.
+
+> Side note about her chapter on Tokyo. Elkin was living in a neighborhood called Roppongi Hills during her time there. Many commentators of this book criticized this chapter on account of her describing Tokyo as being incredibly unwalkable, which the critics found laughable. To some degree, I understand their criticism, Tokyo is commonly seen as one of the best human-scaled cities in our modern world. However, not every neighborhood is equal, and Roppongi Hills is notoriously car friendly for a city like Tokyo. It has been established as effectively a corporate world that can feel devoid of any life, thus separate from the rest of Tokyo and what makes that city appealing. I found the continuous claims that Elkin "doesn't know what she's talking about" when it comes to Tokyo quite unfair when it is clear that she, in fact, was living in a comparatively unwalkable part of the city. If you are more interested in learning more about Tokyo, what makes it such a nice city, and about some of its faults, I'd recommend reading _Emergent Tokyo: Designing the Spontaneous City_, it does talk about this distinction a bit.
+
+I think this is a great book, but I think it's important to remember this isn't seeking to be an _Arcades Project_ or a _Nadja_, this is seeking to reveal to the reader a side of the history of our cities that was left quietly to the side for a long time. I felt that disconnect between what I expected and what the book actually is at the beginning of this book. As time went on and as that expectation faded, I began to appreciate the book much more.
