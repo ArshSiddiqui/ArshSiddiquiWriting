@@ -12,6 +12,9 @@ number of years. These include publications in numerous formats.
 ___
 Dam, A., Lee, Y., Siddiqui, A., Lages, W. S., & Jeon, M. (2024).  Audio augmented reality using sonification to enhance visual art experiences: Lessons learned. International Journal of Human-Computer Studies. https://authors.elsevier.com/a/1jTNG3pfaRxOLb
 
+Won the 2025 Data Sonification award from the [Sonification Archive](https://sonification.design/)  
+Highlighted in the Virginia Tech College of Engineering [research magazine](https://eng.vt.edu/magazine/stories/spring-2024/auditory-augmented-reality.html)
+
 Dam, A., Siddiqui, A., Leclercq, C., & Jeon, M. (2024). Taxonomy and definition of audio augmented reality (AAR): A grounded theory study. International Journal of Human-Computer Studies, 182, 103179. https://authors.elsevier.com/a/1i1eR_ONMr-A2S  
 
 ## Conference Proceedings
