@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2025
 ___
+[Life Ceremony](/fr/bookreviews/life_Ceremony)
+
 [Flâneuse](/fr/bookreviews/flaneuse)
 
 [L'Etranger](/fr/bookreviews/stranger)

@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[Life Ceremony](/bookreviews/life_ceremony)
+
 [Flâneuse](/bookreviews/flaneuse)
 
 [The Stranger](/bookreviews/stranger)
