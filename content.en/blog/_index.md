@@ -7,6 +7,10 @@ type: docs
 
 My thoughts on the most random and unconnected of things.  
 
+# 2025
+___
+[Thoughts on Trend Cycles](./trend_cycle_thoughts/)
+
 # 2024
 ___
 [Dressing Heteronormative Again](./dressing_heteronotmative_again/) <span style="float: right">October 26, 2024</span>
