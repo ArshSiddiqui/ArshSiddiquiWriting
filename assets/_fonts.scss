@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap');
+
 :root {
   --line-height: 1.20rem;
   --text-color: #000;
@@ -26,13 +28,68 @@ a::selection {
   color: #0645ad;
 }
 
+span {
+  float: right;
+}
+
+body {
+  font-family: "Hind";
+  margin: auto;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: Cardo;
+  font-family: "Hind";
+  font-weight: var(--font-weight-bold);
+  margin: calc(var(--line-height) * 2) 0 var(--line-height);
+  line-height: var(--line-height);
 }
 
 h1 { 
+  font-family: "Hind";
   font-weight: 600;
   font-style: normal;
   font-size: 24px; 
 }
-h3 { font-family: Cardo; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Cardo; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Cardo; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Cardo; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5667px; }
+
+h3 {
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 15.4px;
+}
+
+h4 {
+  line-height: 0px;
+  margin-bottom: 0px;
+}
+
+p {
+  font-size: 14px; 
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 1em 0;
+}
+
+hr {
+  padding: 0;
+  margin: 1em 0;
+}
+
+blockquote {
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+pre {
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5667px;
+}
