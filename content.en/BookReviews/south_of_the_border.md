@@ -4,13 +4,11 @@ type: docs
 weight: 10
 ---
 
-# South of the Border, West of the Sun  
+# **South of the Border, West of the Sun**
 
-#### Haruki Murakami
-
-*Febuary 21, 2025*
-
-4/5
+<h4>Author <span>Harui Murakami</span></br>
+Date <span>Febuary 21, 2025</span></br>
+Rating <span>4/5</span></h4>
 
 **Spoilers ahead**
 

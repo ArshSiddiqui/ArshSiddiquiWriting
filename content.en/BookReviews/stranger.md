@@ -4,13 +4,11 @@ type: docs
 weight: 10
 ---
 
-# The Stranger  
+# **The Stranger**
 
-#### Albert Camus
-
-*March 5, 2025*
-
-4/5
+<h4>Author <span>Albert Camus</span></br>
+Date <span>March 5, 2025</span></br>
+Rating <span>4/5</span></h4>
 
 Maybe some spoilers?
 
