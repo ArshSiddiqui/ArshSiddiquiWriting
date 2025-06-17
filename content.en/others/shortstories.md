@@ -3,7 +3,7 @@ title: The Best Short Stories I Have Read
 type: docs
 ---
 
-# The Best Short Stories I Have Read
+# **The Best Short Stories I Have Read**
 
 These are some of the best short stories I have read. These have made me feel things I would not normally
 feel reading stories and think about things more deeply than I would otherwise, or maybe they were just a 

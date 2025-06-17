@@ -3,12 +3,10 @@ title: Other Websites
 type: docs
 ---
 
-# Other Websites
+# **Other Websites**
 
 These are some of my older websites that showcase other projects of mine. They're all effectively
 poorly executed jokes.  
-
-&nbsp; 
 
 [Multiple Deprivation in London](https://arshsiddiqui.github.io/CityModeling/Cities/London/multiple%20deprivation/MultipleDeprivationLondon.html)  
 Showcase multiple deprivation, a measure of poverty, across the different wards of London.

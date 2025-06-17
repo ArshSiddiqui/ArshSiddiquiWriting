@@ -3,7 +3,7 @@ title: The Best Articles I Have Read
 type: docs
 ---
 
-# The Best Articles I Have Read 
+# **The Best Articles I Have Read**
 
 These are some of the best articles I have read, those that have made me think or feel an emotion
 more strongly than I am used to. These may be news articles, but are more likely to be phrased in the

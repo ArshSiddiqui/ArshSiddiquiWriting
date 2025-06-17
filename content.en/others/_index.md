@@ -3,7 +3,7 @@ title: Others
 type: docs
 ---
 
-# Others  
+# **Others**
 
 This has all of my other curiosities and interests. Or perhaps things I just felt like I needed
 to catalogue.
