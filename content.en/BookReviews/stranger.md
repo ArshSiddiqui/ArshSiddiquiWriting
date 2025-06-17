@@ -6,9 +6,9 @@ weight: 10
 
 # **The Stranger**
 
-<h4>Author <span>Albert Camus</span></br>
-Date <span>March 5, 2025</span></br>
-Rating <span>4/5</span></h4>
+<h4>Author <span class="book_header">Albert Camus</span></br>
+Date <span class="book_header">March 5, 2025</span></br>
+Rating <span class="book_header">4/5</span></h4>
 
 Maybe some spoilers?
 

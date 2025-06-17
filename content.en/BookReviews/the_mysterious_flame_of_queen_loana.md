@@ -6,7 +6,7 @@ weight: 10
 
 # **The Mysterious Flame of Queen Loana**
 
-<h4>Author <span>Umberto Eco</span></br>Date <span>June 16, 2025</span></br>Rating <span>4/5</span></h4>
+<h4>Author <span class="book_header">Umberto Eco</span></br>Date <span class="book_header">June 16, 2025</span></br>Rating <span class="book_header">4/5</span></h4>
 
 I wasn't really sure what I was expecting when I started this book. A while back I heard the author Umberto Eco described as "the thinking man's" Dan Brown. I found this book at a used bookstore nearby, but didn't realize how different this one is to his other, more popular novels.
 

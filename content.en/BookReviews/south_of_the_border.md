@@ -6,9 +6,9 @@ weight: 10
 
 # **South of the Border, West of the Sun**
 
-<h4>Author <span>Harui Murakami</span></br>
-Date <span>Febuary 21, 2025</span></br>
-Rating <span>4/5</span></h4>
+<h4>Author <span class="book_header">Harui Murakami</span></br>
+Date <span class="book_header">Febuary 21, 2025</span></br>
+Rating <span class="book_header">4/5</span></h4>
 
 **Spoilers ahead**
 

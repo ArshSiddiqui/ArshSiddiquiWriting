@@ -6,9 +6,9 @@ weight: 10
 
 # **Flâneuse**
 
-<h4>Author <span>Lauren Elkin</span></br>
-Date <span>March 10, 2025</span></br>
-Rating <span>4/5</span></h4>
+<h4>Author <span class="book_header">Lauren Elkin</span></br>
+Date <span class="book_header">March 10, 2025</span></br>
+Rating <span class="book_header">4/5</span></h4>
 
 I haven't read about the Flâneur, or in this case the Flâneuse, in a very long time. The idea captivated me much when I was younger: that of the idle wanderer in the city who becomes, to some degree, part of the urban fabric as they wander through it. For much of its history, the flâneur was purely a masculine figure, as for a very long time women did not, could not, wander through the city freely by themselves. Part of this came from the perception of women who wandered cities alone as prostitutes, or as otherwise negative individuals. This book wishes to show the relationship between women and their cities in a true light.
 

@@ -6,9 +6,9 @@ weight: 10
 
 # **Emergent Tokyo: Designing the Spontaneous City**
 
-<h4>Author <span>Jorge Almazán</span></br>
-Date <span>Febuary 3, 2025</span></br>
-Rating <span>5/5</span></h4>
+<h4>Author <span class="book_header">Jorge Almazán</span></br>
+Date <span class="book_header">Febuary 3, 2025</span></br>
+Rating <span class="book_header">5/5</span></h4>
 
 This feels like one of those lightning in a bottle moments, where aimlessly watching videos online or surfing the web actually leads you to a book or organization that intrests you greatly. I came across this book thanks to Dami Lee and her videos on architecture, notably one on the development of Tokyo.
 
