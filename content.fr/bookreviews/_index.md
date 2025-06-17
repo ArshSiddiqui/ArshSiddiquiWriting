@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2025
 ___
+[La Mystérieuse Flamme de la reine Loana](the_mysterious_flame_of_queen_loana)
+
 [The Siege of Krishnapur](/fr/bookreviews/krishnapur)
 
 [Life Ceremony](/fr/bookreviews/life_Ceremony)
