@@ -3,7 +3,7 @@ title: Research
 type: docs
 ---
 
-# Research
+# **Research**
 
 This is all of the research publications I have been involved in and worked on over the past
 number of years. These include publications in numerous formats.

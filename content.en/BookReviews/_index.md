@@ -3,7 +3,7 @@ title: Book Reviews
 type: docs
 ---
 
-# Book Reviews
+# **Book Reviews**
 
 All the books I have read. The books I have reviews for are adapted from my Goodreads. I intend to save them here, out of
 precaution, due to saving issues I've had on Goodreads in the past.

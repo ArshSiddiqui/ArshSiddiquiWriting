@@ -3,7 +3,6 @@ headless = true
 +++
 
 - [Blog]({{< relref "/blog" >}})
-- [Technical]({{< relref "/technical" >}})
 - [Research]({{< relref "/research" >}})
 - [Poetry]({{< relref "/poetry" >}})
 - [Short Stories]({{< relref "/ShortStories" >}})
