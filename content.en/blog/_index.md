@@ -9,6 +9,8 @@ My thoughts on the most random and unconnected of things. Some of these are tech
 
 ## 2025
 ___
+[Big Fan of the Balmacaan](./balmacaan) <span style="float: right">June 7</span>
+
 [Thoughts on Trend Cycles](./trend_cycle_thoughts/) <span style="float: right">May 5</span>
 
 
