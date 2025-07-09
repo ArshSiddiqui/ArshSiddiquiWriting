@@ -6,7 +6,7 @@ type: docs
 # Thoughts on Trend Cycles
 
 **May 13, 2025**  
-**Reston, VA**
+**Nowhere in particular**
 
 I've been, sadly, using Instagram more than I'd like to be as of late, and this has bombarded me with a great deal of fashion and fashion advice content. My experience with fashion advice has always been somewhat wrought, just due to the sort of expectations it lives by. I got into fashion in high school, and so have had a lot of time to mess with my style and experience a lot of failure and bad outfits. Evetually this has brought me to something I am somwhat comfortable with, but there are a lot of things I'd like to change. I would probably consider fashion to be a hobby of mine by this way, mostly because of the amount of time I have spent learning about fashion and messing with clothes. This is not to say I am an expert or even know a lot. Every time I do see some video/reel/article about fashion online, I am astounded by how little I know and just how big fashion as a subject is.
 

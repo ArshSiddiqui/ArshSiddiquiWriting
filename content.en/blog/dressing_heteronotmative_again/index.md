@@ -6,7 +6,7 @@ type: docs
 # Dressing Heteronormative Again 
 
 **October 26, 2024**  
-**Reston, VA**
+**Nowhere in particular**
 
 
 I was reading a fantastic interview between Derek Guy and Avery Truffleman recently about her podcast "Articles of Interest", and one specific statement stood out to me:

@@ -3,10 +3,10 @@ title: The Balmacaan
 type: docs
 ---
 
-# Big Fan of the Balmacaan
+# **Big Fan of the Balmacaan**
 
-**June 7, 2025**  
-**Reston, VA**
+**July 7, 2025**  
+**Nowhere in particular**
 
 <figure> <p style="text-align:center;"><img src=images/auralee_aw25.jpg alt="Auralee Autumn/Winter 2025 - Look 36" style="width:40%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:center;">Auralee Autumn/Winter 2025 - Look 36. Pulled from Vogue Runway.</figcaption> </figure>  
 

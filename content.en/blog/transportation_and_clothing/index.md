@@ -6,7 +6,7 @@ type: docs
 # Transportation and Clothing
 
 **September 4, 2024**  
-**Richmond, VA**
+**Blanchard's Coffee**
 
 I came across a fairly interesting discussion on transportation recently, on an old episode of 99% Invisible ([Missing the Bus](https://99percentinvisible.org/episode/missing-the-bus/)). I recommend listening to the episode or reading the article, both because it's really interesting but also because I will be somewhat paraphrasing some of the ideas expressed within.
 

@@ -12,18 +12,6 @@ form of stories. They are organized in terms of publication date.
 
 ## 2023
 ___
-[Paul Bowles in Tangier](https://www.theparisreview.org/blog/2023/11/21/paul-bowles-in-tangier/)  
-I'm not really sure how to explain this article. I just found it to be interesting, even though I haven't read any books by Paul Bowles. It's good!
-
-[I Asked New York Cabbies Who They Were Talking to on the Phone](https://www.vice.com/en/article/exq85k/who-the-hell-are-taxi-drivers-always-talking-to-on-the-phone-1117)  
-I'm sure a lot of people have wondered who their cab drivers are continuously talking to on the phone. This sheds some light on it and explains some of it through, an albeit small, population of cab drivers.
-
-[The Man Who Invented Fifteen Hundred Necktie Knots](https://www.newyorker.com/culture/annals-of-inquiry/the-man-who-invented-fifteen-hundred-necktie-knots)  
-This is just a fun article. For one, the story of the man himself is interesting and enjoyable in it of itself. And then additionally the mathematical presentation and the concepts therein are additionally quite fascinating.
-
-[We're More Ghosts Than People](https://www.theparisreview.org/blog/2023/10/16/were-more-ghosts-than-people/)  
-This provides an interesting juxtaposition between the playing of a video game and the life of the narrator, particularly with respect to the attempt to redeem oneself.
-
 [The Forgotten End of the Second World War](https://www.spectator.co.uk/article/the-forgotten-end-of-the-second-world-war/)  
 This is incredibly fascinating. I should begin by stating that the information presented in this article **should** be known and taught to students in America, unfortunately, it often isn't. This discusses, in brief, some information about the Pacific theatre of the war, and some details that are quite critical to the development of modern society since then, that should be known by much more Americans.
 
@@ -81,18 +69,17 @@ ___
 [Founding Farmers Review: Zero stars for the mega-popular D.C. eatery](https://www.washingtonpost.com/lifestyle/food/founding-farmers-review-where-the-biggest-temptation-is-to-leave/2016/06/01/76b2c844-204e-11e6-9e7f-57890b612299_story.html)  
 As a local to the DMV area, this review brings me much joy.
 
+## 2015
+___
+[AbdesSalaam Attar: Alchemy, Spirituality, Love & Memory](https://kafkaesqueblog.com/2015/03/01/abdessalaam-attar-alchemy-spirituality-love-and-memory/)  
+A very thought provoking interview about fragrences and our perceptions of them.
+
 ## 2014
 ___
 [China Expedition 2013: A Tale of Typhoon-Tossed Kudzu](https://nmnh.typepad.com/the_plant_press/2014/05/china-expedition-2013-a-tale-of-typhoon-tossed-kudzu-by-ashley-n-egan.html)  
 Do you want to learn a lot more about Kudzu than you ever needed to know? Then this article is for you! This actually 
 was a pretty enjoyable article in it of itself, but it did also help to inform some of my poetry, so I could be biased,
 but that is why I'm sharing all of these articles anyhow.
-
-## 2011
-___  
-[Crunch](https://www.newyorker.com/magazine/2011/11/21/crunch)  
-Everything one would ever want to know about how the most delicious apples are created and the thought process
-behind how they live and die.
 
 ## 2000
 ___

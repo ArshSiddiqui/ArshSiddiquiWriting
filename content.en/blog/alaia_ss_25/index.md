@@ -6,7 +6,7 @@ type: docs
 # I Want To Flow Like Water: Alaïa Spring/Summer 2025
 
 **September 8, 2024**  
-**Richmond, VA**
+**Rostov's Coffee and Tea**
 
 New York Fashion Week is fully underway and while I hope that one day I will, by some grace, get to go see some show in person, for now, I remain stuck dreaming about it. I've followed fashion weeks on and off for a while now, so my knowledge of runway history is fairly limited. Still, every now and then some show comes by that I find to be so incredible that I have to write about it to be able to return to a state of peace. Right now, that same jitteriness has come to me thanks to Pieter Mulier's Alaïa runway show.  
 

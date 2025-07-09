@@ -4,8 +4,9 @@ type: docs
 weight: 10
 ---
 
-# Grocery Stores in Los Angeles
+# **Grocery Stores in Los Angeles**
 **January 3, 2024**  
+**Nowhere in particular**
 
 Quite a while ago, I had taken a class at my university that covered a range of design based topics, one such relating to food scarcity and food deserts. According to Wikipedia, a food desert is ["an area that has limited access to affordable and nutritious food"](https://en.wikipedia.org/wiki/Food_desert). To continue my work involving `osmnx`, I figured it might be interesting to consider areas in a city that might classify as a food desert, though I'll use a much more fast and loose definition of a food desert here, simply due to my level of urban analysis, my patience, and the data available with respect to my knowledge of how to deal with it.  
 
