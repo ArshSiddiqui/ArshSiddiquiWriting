@@ -12,6 +12,8 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2025
 ___
+[La Folle de Chaillot et L'Apollon de Bellac](giraudoux)
+
 [La Mystérieuse Flamme de la reine Loana](the_mysterious_flame_of_queen_loana)
 
 [The Siege of Krishnapur](/fr/bookreviews/krishnapur)
