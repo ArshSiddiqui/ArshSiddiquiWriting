@@ -12,6 +12,12 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[Down and Out in Paris and London](down_and_out_in_paris_and_london)
+
+[The KLF: Chaos, Magic, and the Band Who Burned a Million Pounds](klf)
+
+[Fahrenheit 451](f451)
+
 [The Madwoman of Chaillot and The Apollo of Bellac](giraudoux)
 
 [Ametora: How Japan Saved American Style](/bookreviews/ametora)
@@ -28,13 +34,14 @@ ___
 
 [South of the Border, West of the Sun](/bookreviews/south_of_the_border)
 
+</td><td width="50%" style="vertical-align: top; border-color: transparent">
+
 [Emergent Tokyo: Designing the Spontaneous City](/bookreviews/emergent_tokyo)
 
 [Kitchen Confidential: Adventures in the Culinary Underbelly](/bookreviews/kitchen_confidential)
 
 [The Way to the Spring](/bookreviews/the_way_to_the_spring)
 
-</td><td width="50%" style="vertical-align: top; border-color: transparent">
 </td></tr></table>
 
 

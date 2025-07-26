@@ -12,6 +12,13 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 ## 2025
 ___
+
+[Dans la Dèche à Paris et à Londres](down_and_out_in_paris_and_london)
+
+[The KLF: Chaos, Magic, and the Band Who Burned a Million Pounds](klf)
+
+[Fahrenheit 451](f451)
+
 [La Folle de Chaillot et L'Apollon de Bellac](giraudoux)
 
 [La Mystérieuse Flamme de la reine Loana](the_mysterious_flame_of_queen_loana)
