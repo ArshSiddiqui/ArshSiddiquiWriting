@@ -5,7 +5,7 @@ type: docs
 
 # **Qualms with Fashion as Language**
 
-**July 7, 2025**  
+**August 20, 2025**  
 **Nowhere in particular**
 
 I've been interested in the idea of fashion as language for a while now. Of course, this isn't a new idea by any means, I'd first heard about it through Derek Guy of "Die, Workwear" a few years back. This is a very appealing idea, and explains _a lot_ about modern fashion to me. Something that I've found interesting about fashion since around 2020 is that aesthetics seem to have started to play the forefront in the ideas being expressing by people exploring fashion (most prominently online). I first noticed this with aesthetics like "dark academia" and "cottage-core", where people were dressing to express an affiliation with an idea _first and foremost_.
