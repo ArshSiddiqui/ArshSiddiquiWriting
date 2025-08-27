@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[On Tyranny: Twenty Lessons from the Twentieth Century](on_tyranny)
+
 [Gods and Kings: The Rise and Fall of Alexander McQueen and John Galliano](gods_and_kings)
 
 [Down and Out in Paris and London](down_and_out_in_paris_and_london)
@@ -32,9 +34,9 @@ ___
 
 [Flâneuse](/bookreviews/flaneuse)
 
-[The Stranger](/bookreviews/stranger)
-
 </td><td width="50%" style="vertical-align: top; border-color: transparent">
+
+[The Stranger](/bookreviews/stranger)
 
 [South of the Border, West of the Sun](/bookreviews/south_of_the_border)
 
