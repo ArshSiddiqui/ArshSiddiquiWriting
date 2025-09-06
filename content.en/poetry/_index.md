@@ -8,7 +8,9 @@ type: docs
 Here lies my poetry, which is likely to be divided up into published and un-published work.  
 This is also of middling quality.
 
-&nbsp;  
+<a href="https://www.floydshine.com/index.html"><p style="text-align:right; text-decoration:underline;">Floyd County Moonshine</p></a>
+
+The Kudzu Vine
 
 <a href="https://academyoftheheartandmind.com/2023/11/08/pier-by-northerly-island-and-other-poems"><p style="text-align:right; text-decoration:underline;">Academy of the Heart and Mind</p></a>
 

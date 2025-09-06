@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[Granta 171: Dead Friends]()
+
 [On Tyranny: Twenty Lessons from the Twentieth Century](on_tyranny)
 
 [Gods and Kings: The Rise and Fall of Alexander McQueen and John Galliano](gods_and_kings)
@@ -32,9 +34,9 @@ ___
 
 [Life Ceremony](/bookreviews/life_ceremony)
 
-[Flâneuse](/bookreviews/flaneuse)
-
 </td><td width="50%" style="vertical-align: top; border-color: transparent">
+
+[Flâneuse](/bookreviews/flaneuse)
 
 [The Stranger](/bookreviews/stranger)
 
