@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[Hard-Boiled Wonderland and the End of the World](hardboiled)
+
 [Granta 171: Dead Friends]()
 
 [On Tyranny: Twenty Lessons from the Twentieth Century](on_tyranny)
@@ -32,9 +34,9 @@ ___
 
 [The Seige of Krishnapur](/bookreviews/krishnapur)
 
-[Life Ceremony](/bookreviews/life_ceremony)
-
 </td><td width="50%" style="vertical-align: top; border-color: transparent">
+
+[Life Ceremony](/bookreviews/life_ceremony)
 
 [Flâneuse](/bookreviews/flaneuse)
 
