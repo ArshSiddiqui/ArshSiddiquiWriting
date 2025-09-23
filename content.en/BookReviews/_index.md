@@ -12,6 +12,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[NewsPrints](2025/newsprints)
+
 [Hard-Boiled Wonderland and the End of the World](hardboiled)
 
 [Granta 171: Dead Friends]()
@@ -30,11 +32,11 @@ ___
 
 [Ametora: How Japan Saved American Style](/bookreviews/ametora)
 
+</td><td width="50%" style="vertical-align: top; border-color: transparent">
+
 [The Mysterious Flame of Queen Loana](/bookreviews/the_mysterious_flame_of_queen_loana)
 
 [The Seige of Krishnapur](/bookreviews/krishnapur)
-
-</td><td width="50%" style="vertical-align: top; border-color: transparent">
 
 [Life Ceremony](/bookreviews/life_ceremony)
 
