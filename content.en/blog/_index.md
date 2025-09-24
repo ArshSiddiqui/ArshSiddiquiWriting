@@ -9,6 +9,7 @@ My thoughts on the most random and unconnected of things. Some of these are tech
 
 ## 2025
 ___
+[The Value in Feeling Clothes](./2025/09/23) <span style="float: right">September 23</span>
 
 [Qualms with Fashion as Language](./language_qualms) <span style="float: right">August 20</span>
 
