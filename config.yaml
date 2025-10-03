@@ -1,7 +1,0 @@
-baseURL: https://arshsiddiqui.pages.dev/
-title: Arsh Siddiqui
-theme: hugo-book
-
-params:
-    BookTheme: "auto"
-    BookMenuBundle: /menu

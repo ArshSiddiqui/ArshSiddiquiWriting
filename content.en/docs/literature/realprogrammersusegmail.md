@@ -2,6 +2,7 @@
 title: Real Programmers Use Gmail
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Real Programmers Use Gmail

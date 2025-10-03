@@ -3,10 +3,17 @@ title: Literature
 type: docs
 ---
 
-# Poetry  
+# **Literature**  
 
-Here lies my poetry, which is likely to be divided up into published and un-published work.  
-This is also of middling quality.
+Here lies my short stories and poetry. This is of middling quality.
+
+#### Short Stories  
+
+<a href="http://www.athinsliceofanxiety.com/2023/09/fiction-man-with-small-notebook.html"><p style="text-align:right; text-decoration:underline;">A Thin Slice of Anxiety</p></a>
+
+The Man With The Small Notebook
+
+#### Poetry
 
 <a href="https://www.floydshine.com/index.html"><p style="text-align:right; text-decoration:underline;">Floyd County Moonshine</p></a>
 
@@ -29,13 +36,3 @@ The Taste of Honeycrisp
 <a href="https://www.sagecigarettes.com/?p=2639"><p style="text-align:right; text-decoration:underline;">Sage Cigarettes</p></a>
 
 Sorry About the Ghosts
-
-# Short Stories  
-
-Stories that I have written of a reasonably short nature. Thee have likely been published elsewhere
-on the internet.  
-
-&nbsp;  
-[The Man With The Small Notebook](http://www.athinsliceofanxiety.com/2023/09/fiction-man-with-small-notebook.html)
-
-[Real Programmers Use Gmail](/oldwriting/realprogrammersusegmail/)
