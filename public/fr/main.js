@@ -1,5 +1,5 @@
 // Randomize image displayed
-const images = ["./images/MeInKashmir.jpg"];
+const images = ["./images/MeInKashmir.jpg", "./images/MeInVancouver.jpg"];
 var randImgNum = Math.floor(Math.random() * images.length);
 document.getElementById("frontImage").src = images[randImgNum];
 

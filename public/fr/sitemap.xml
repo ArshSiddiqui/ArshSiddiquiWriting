@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/1q84/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/1q84/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/1q84/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/america/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/america/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/america/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/candide/</loc>
     <xhtml:link
                 rel="alternate"
@@ -14,6 +38,30 @@
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/candide/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/down_and_out_in_paris_and_london/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/down_and_out_in_paris_and_london/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/down_and_out_in_paris_and_london/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/in_praise_of_shadows/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/in_praise_of_shadows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/in_praise_of_shadows/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/everyman/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,6 +72,42 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/everyman/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/f451/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/f451/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/f451/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/flaneuse/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/flaneuse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/flaneuse/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/giraudoux/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/giraudoux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/giraudoux/"
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/if_on_a_winters_night_a_traveler/</loc>
@@ -62,7 +146,55 @@
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/afarewelltoarms/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/stranger/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/stranger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/stranger/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/theforest/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/the_mysterious_flame_of_queen_loana/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/the_mysterious_flame_of_queen_loana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_mysterious_flame_of_queen_loana/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/snows_of_venice/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/snows_of_venice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/snows_of_venice/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/unsuitable_job_for_a_woman/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/unsuitable_job_for_a_woman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/unsuitable_job_for_a_woman/"
+                />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/joy_luck_club/</loc>
     <xhtml:link
@@ -74,6 +206,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/joy_luck_club/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/the_master_and_margarita/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/the_master_and_margarita/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_master_and_margarita/"
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/theovercoat/</loc>
@@ -88,6 +232,18 @@
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/theovercoat/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/roger_ackroyd/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/roger_ackroyd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/roger_ackroyd/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/the_learners/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,6 +254,54 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_learners/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/alice/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/alice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/alice/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/life_ceremony/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/life_ceremony/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/life_ceremony/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/murder_in_the_cathedral/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/murder_in_the_cathedral/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/murder_in_the_cathedral/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/faceless_killers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/faceless_killers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/faceless_killers/"
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/neverwhere/</loc>
@@ -113,6 +317,18 @@
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/cyring_in_hmart/</loc>
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/watch_us_dance/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/watch_us_dance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/watch_us_dance/"
+                />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/shopgirl/</loc>
     <xhtml:link
@@ -138,6 +354,30 @@
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_grip_of_film/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/the_hound_of_the_baskervilles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/the_hound_of_the_baskervilles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_hound_of_the_baskervilles/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/klf/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/klf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/klf/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/the_martian_chronicles/</loc>
     <xhtml:link
                 rel="alternate"
@@ -148,6 +388,30 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_martian_chronicles/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/the_monk_of_mokha/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/the_monk_of_mokha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/the_monk_of_mokha/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/krishnapur/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/krishnapur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/krishnapur/"
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/a_gentleman_in_moscow/</loc>
@@ -172,6 +436,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/a_streetcar_named_desire/"
+                />
+  </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/bookreviews/true_style/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/bookreviews/true_style/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/bookreviews/true_style/"
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/docs/aboutme/</loc>
@@ -237,6 +513,18 @@
                 href="https://arshsiddiqui.pages.dev/fr/docs/page-two/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/google618f010c7db99b61/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/google618f010c7db99b61/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/google618f010c7db99b61/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/posts/</loc>
     <xhtml:link
                 rel="alternate"
@@ -285,6 +573,18 @@
                 href="https://arshsiddiqui.pages.dev/fr/bookreviews/"
                 />
   </url><url>
+    <loc>https://arshsiddiqui.pages.dev/fr/others/articles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arshsiddiqui.pages.dev/others/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://arshsiddiqui.pages.dev/fr/others/articles/"
+                />
+  </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/poetry/</loc>
     <xhtml:link
                 rel="alternate"
@@ -310,15 +610,5 @@
                 />
   </url><url>
     <loc>https://arshsiddiqui.pages.dev/fr/technical/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arshsiddiqui.pages.dev/technical/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://arshsiddiqui.pages.dev/fr/technical/"
-                />
   </url>
 </urlset>

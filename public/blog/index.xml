@@ -8,25 +8,130 @@
     <language>en</language>
     <atom:link href="https://arshsiddiqui.pages.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Generated Poe-try</title>
+      <link>https://arshsiddiqui.pages.dev/blog/generatedpoe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/generatedpoe/</guid>
+      <description>Edgar Allen Poe-try&#xD;#&#xD;the day broke it&#xA;so strong and a willingness&#xA;to let it atone&#xA;I have been interested in language modeling for a while, and I have done many projects in that realm in the past. Firstly, langauge modeling is the use of a technique to determine the probablility of a sentence occuring with the words in it in that order. It is frequently used to create computer algorithms that will create intelligible sentences based upon some text corpus.</description>
+    </item>
+    <item>
+      <title>Grocery Stores in Los Angeles</title>
+      <link>https://arshsiddiqui.pages.dev/blog/los_angeles_grocery_stores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/los_angeles_grocery_stores/</guid>
+      <description>Grocery Stores in Los Angeles&#xD;#&#xD;January 3, 2024&#xA;Nowhere in particular&#xA;Quite a while ago, I had taken a class at my university that covered a range of design based topics, one such relating to food scarcity and food deserts. According to Wikipedia, a food desert is &amp;ldquo;an area that has limited access to affordable and nutritious food&amp;rdquo;. To continue my work involving osmnx, I figured it might be interesting to consider areas in a city that might classify as a food desert, though I&amp;rsquo;ll use a much more fast and loose definition of a food desert here, simply due to my level of urban analysis, my patience, and the data available with respect to my knowledge of how to deal with it.</description>
+    </item>
+    <item>
+      <title>Headline Sentiment</title>
+      <link>https://arshsiddiqui.pages.dev/blog/headlinefrequency/headlinesentiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/headlinefrequency/headlinesentiment/</guid>
+      <description>Headline Sentiment&#xD;#&#xD;Due to the prevalence of the internet in our day to day lives, we often tend to read and view news articles in a manner different than we used to. Traditional news journalism was read or recieved through newspapers or some other form of once-daily edification. Now we no longer seek this form of keeping up to date with what is going on in the world, rather we tend to find information and news through articles online.</description>
+    </item>
+    <item>
+      <title>Monopoly Frequency</title>
+      <link>https://arshsiddiqui.pages.dev/blog/monopolyfreq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/monopolyfreq/</guid>
+      <description>What squares are landed on the most in Monopoly?&#xD;#&#xD;I am pretty bad at Monopoly myself, and I had been lately learning more about how to improve my game. One interesting consideration to have when it comes to playing Monopoly is to consider which squares are landed upon the most. I typically spend my games trying to purchase squares near the end of the board, because if anybody lands on them I get a higher payout, but is that mentality necessarily true?</description>
+    </item>
+    <item>
+      <title>Montreal Air Pollution Analysis</title>
+      <link>https://arshsiddiqui.pages.dev/blog/montreal_air_pollution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/montreal_air_pollution/</guid>
+      <description>Montreal Air Pollution Analysis&#xD;#&#xD;December 10, 2023&#xA;Being recently introduced to osmnx, I have continued to tinker around and play with it to see if I could do my own amateur urban analysis. Previously, I had attempted to model the metro of Paris, and then perform a shortest path search on two random stations within.&#xA;This time, I have chosen to target Montreal, and while I had initially wanted to perform greenspace analysis (due to my interest in the Ruelles Vertes), I had quickly found data for air pollution therein.</description>
+    </item>
+    <item>
+      <title>Stock Analysis</title>
+      <link>https://arshsiddiqui.pages.dev/blog/stockanalysis/stockanalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/stockanalysis/stockanalysis/</guid>
+      <description>Stock Analysis&#xD;#&#xD;Given the ubiquity of the financial market in our day to day lives, and with my personal interest in stocks I figured that now would be as good of a time as any to learn how to analyze stocks with code.&#xA;Given its current ubiquity in the field and with its abundance of libraries that would make learning more about this field, I elected to proceed with Python.</description>
+    </item>
+    <item>
+      <title>Dressing Heteronormative Again</title>
+      <link>https://arshsiddiqui.pages.dev/blog/dressing_heteronotmative_again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/dressing_heteronotmative_again/</guid>
+      <description>Dressing Heteronormative Again&#xD;#&#xD;October 26, 2024&#xA;Nowhere in particular&#xA;I was reading a fantastic interview between Derek Guy and Avery Truffleman recently about her podcast &amp;ldquo;Articles of Interest&amp;rdquo;, and one specific statement stood out to me:&#xA;&amp;ldquo;The only thing that makes me think actual prep might come back is when I think about the 1980s revival, which surprisingly came after the countercultural revolution of the previous decade. It’s like, after ten years of challenging social norms, somehow people got into dressing super heteronormative.</description>
+    </item>
+    <item>
+      <title>I Want To Flow Like Water</title>
+      <link>https://arshsiddiqui.pages.dev/blog/alaia_ss_25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/alaia_ss_25/</guid>
+      <description>I Want To Flow Like Water: Alaïa Spring/Summer 2025&#xD;#&#xD;September 8, 2024&#xA;Rostov&amp;rsquo;s Coffee and Tea&#xA;New York Fashion Week is fully underway and while I hope that one day I will, by some grace, get to go see some show in person, for now, I remain stuck dreaming about it. I&amp;rsquo;ve followed fashion weeks on and off for a while now, so my knowledge of runway history is fairly limited.</description>
+    </item>
+    <item>
+      <title>Quality is Worth it</title>
+      <link>https://arshsiddiqui.pages.dev/blog/quality_is_worth_it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/quality_is_worth_it/</guid>
+      <description>Quality is Worth it&#xD;#&#xD;June 27, 2024&#xA;Nowhere in particular&#xA;I find often when talking to people about fashion the question of quality price relationship to come up. Most people I talk with tend to find that the pricing for some pieces of clothing that they find to be rather simple (a sweater or a white shirt, for instance) to be excessively high at certain stores and labels. Often I hear things like &amp;ldquo;a white shirt shouldn&amp;rsquo;t cost $100, mine cost $30!</description>
+    </item>
+    <item>
+      <title>Qualms with Fashion as Language</title>
+      <link>https://arshsiddiqui.pages.dev/blog/language_qualms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/language_qualms/</guid>
+      <description>Qualms with Fashion as Language&#xD;#&#xD;August 20, 2025&#xA;Nowhere in particular&#xA;I&amp;rsquo;ve been interested in the idea of fashion as language for a while now. Of course, this isn&amp;rsquo;t a new idea by any means, I&amp;rsquo;d first heard about it through Derek Guy of &amp;ldquo;Die, Workwear&amp;rdquo; a few years back. This is a very appealing idea, and explains a lot about modern fashion to me. Something that I&amp;rsquo;ve found interesting about fashion since around 2020 is that aesthetics seem to have started to play the forefront in the ideas being expressing by people exploring fashion (most prominently online).</description>
+    </item>
+    <item>
       <title>Self-Perception in Fashion</title>
       <link>https://arshsiddiqui.pages.dev/blog/self_perception_in_fashion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arshsiddiqui.pages.dev/blog/self_perception_in_fashion/</guid>
-      <description>Self-Perception in Fashion: Why Dress?&#xD;#&#xD;July 7, 2023&#xA;So we aren&#39;t naked&#xD;- Jenny The role of any good marketing group is to establish generated demand, meaning you want to generate interest (or a feeling of need) in whatever you are trying to sell. Quite often the things for which demand is being generated for are not necessities. This is to be expected of course, the vast majority of things the average person is likely to purchase is not something they need for survival, yet generated demand still feels rather questionable in nature doesn&amp;rsquo;t it?</description>
+      <description>Self-Perception in Fashion: Why Dress?&#xD;#&#xD;July 7, 2023&#xA;Chicago, IL&#xA;So we aren&#39;t naked&#xD;- Jenny The role of any good marketing group is to establish generated demand, meaning you want to generate interest (or a feeling of need) in whatever you are trying to sell. Quite often the things for which demand is being generated for are not necessities. This is to be expected of course, the vast majority of things the average person is likely to purchase is not something they need for survival, yet generated demand still feels rather questionable in nature doesn&amp;rsquo;t it?</description>
+    </item>
+    <item>
+      <title>The Balmacaan</title>
+      <link>https://arshsiddiqui.pages.dev/blog/balmacaan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/balmacaan/</guid>
+      <description>Big Fan of the Balmacaan&#xD;#&#xD;July 7, 2025&#xA;Nowhere in particular&#xA;Auralee Autumn/Winter 2025 - Look 36. Pulled from Vogue Runway. It is exceedingly hot throughout much of the Eastern seabord of the United States at the moment, and I&amp;rsquo;m finding some respite by looking at clothes from the chillier months. This has led me to one of my favorite garments, the balmacaan!&#xA;This is a garment that I was surprised to find that I love so much, mostly because when I first started liking winter overcoats, I really wanted to have a lapel on it in some form, over just a collar.</description>
     </item>
     <item>
       <title>The Dangers of a Hyper-Niche Base</title>
       <link>https://arshsiddiqui.pages.dev/blog/thedangersofahypernichebase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arshsiddiqui.pages.dev/blog/thedangersofahypernichebase/</guid>
-      <description>The Dangers of a Hyper-Niche Base&#xD;#&#xD;July 3, 2023&#xA;In fashion today, specificity over a niche base of aesthetic or style is becoming a more popular way to sustain a brand. Cult-like followings of certain brands or aesthetics have become more popular than ever, and now brands have seen, or will see, a need to attract these consumers to survive. Attracting this consumer base is no doubt of great importance for the survival of brands, particularly those that are smaller or are still growing.</description>
+      <description>The Dangers of a Hyper-Niche Base&#xD;#&#xD;July 3, 2023&#xA;Chicago, IL&#xA;In fashion today, specificity over a niche base of aesthetic or style is becoming a more popular way to sustain a brand. Cult-like followings of certain brands or aesthetics have become more popular than ever, and now brands have seen, or will see, a need to attract these consumers to survive. Attracting this consumer base is no doubt of great importance for the survival of brands, particularly those that are smaller or are still growing.</description>
+    </item>
+    <item>
+      <title>The Value in Feeling Clothes</title>
+      <link>https://arshsiddiqui.pages.dev/blog/2025/09/23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/2025/09/23/</guid>
+      <description>The Value in Feeling Clothes&#xD;#&#xD;September 23, 2025&#xA;Nowhere in particular&#xA;Quite often when I am talking to people about fashion and clothes, they bring up the very high price point of luxury clothes as a common criticism. Often, they perceive the price of these garments to be far too high in relation to the product that you are getting. I have changed my opinion a lot about pricing when it comes to clothes.</description>
     </item>
     <item>
       <title>This Latter Interest</title>
       <link>https://arshsiddiqui.pages.dev/blog/this_latter_interest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arshsiddiqui.pages.dev/blog/this_latter_interest/</guid>
-      <description>This Latter Interest&#xD;#&#xD;August 5, 2023&#xA;It often comes to me that I worry about what major decisions I have made for myself in the past that I really have little power to change. The most prominent perhaps of these was my decision to pursue Computer Science. I did, indeed, used to enjoy technology when I was a younger fellow, but as time passed, I had teachers and professors that consistently, compounded, pulled me towards the arts.</description>
+      <description>This Latter Interest&#xD;#&#xD;August 5, 2023&#xA;Chicago, IL&#xA;It often comes to me that I worry about what major decisions I have made for myself in the past that I really have little power to change. The most prominent perhaps of these was my decision to pursue Computer Science. I did, indeed, used to enjoy technology when I was a younger fellow, but as time passed, I had teachers and professors that consistently, compounded, pulled me towards the arts.</description>
+    </item>
+    <item>
+      <title>Thoughts on Trend Cycles</title>
+      <link>https://arshsiddiqui.pages.dev/blog/trend_cycle_thoughts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/trend_cycle_thoughts/</guid>
+      <description>Thoughts on Trend Cycles&#xD;#&#xD;May 13, 2025&#xA;Nowhere in particular&#xA;I&amp;rsquo;ve been, sadly, using Instagram more than I&amp;rsquo;d like to be as of late, and this has bombarded me with a great deal of fashion and fashion advice content. My experience with fashion advice has always been somewhat wrought, just due to the sort of expectations it lives by. I got into fashion in high school, and so have had a lot of time to mess with my style and experience a lot of failure and bad outfits.</description>
+    </item>
+    <item>
+      <title>Transportation and Clothing</title>
+      <link>https://arshsiddiqui.pages.dev/blog/transportation_and_clothing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/transportation_and_clothing/</guid>
+      <description>Transportation and Clothing&#xD;#&#xD;September 4, 2024&#xA;Blanchard&amp;rsquo;s Coffee&#xA;I came across a fairly interesting discussion on transportation recently, on an old episode of 99% Invisible (Missing the Bus). I recommend listening to the episode or reading the article, both because it&amp;rsquo;s really interesting but also because I will be somewhat paraphrasing some of the ideas expressed within.&#xA;Obviously 99pi. The part of the article/podcast that I found the most interesting was that which discussed the cost of public transportation.</description>
+    </item>
+    <item>
+      <title>Why San Francisco?</title>
+      <link>https://arshsiddiqui.pages.dev/blog/why_san_francisco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arshsiddiqui.pages.dev/blog/why_san_francisco/</guid>
+      <description>Why San Francisco?&#xD;#&#xD;May 8, 2024&#xA;Happy Wok&#xA;I traveled to San Francisco late in December of 2023. Going in, I think the only thing I heard spoken of on the six-hour drive from Los Angeles was crime, both from everybody in the car with me and from messages from friends. It felt almost like a knee jerk reaction to bring up crime whenever you hear speak of San Francisco.</description>
     </item>
   </channel>
 </rss>
