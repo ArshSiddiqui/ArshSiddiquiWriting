@@ -1,6 +1,7 @@
 ---
 title: Research
 type: docs
+weight: 4
 ---
 
 # **Research**
