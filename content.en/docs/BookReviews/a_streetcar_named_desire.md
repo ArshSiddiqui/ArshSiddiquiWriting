@@ -2,6 +2,7 @@
 title: A Streetcar Named Desire
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # A Streetcar Named Desire

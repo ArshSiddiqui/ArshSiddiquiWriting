@@ -2,6 +2,7 @@
 title: The Snows of Venice
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Snows of Venice

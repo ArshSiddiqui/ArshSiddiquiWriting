@@ -2,6 +2,7 @@
 title: The Joy Luck Club
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Joy Luck Club

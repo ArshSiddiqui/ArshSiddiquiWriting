@@ -1,6 +1,7 @@
 ---
 title: Transportation and Clothing 
 type: docs
+bookHidden: true
 ---
 
 # Transportation and Clothing

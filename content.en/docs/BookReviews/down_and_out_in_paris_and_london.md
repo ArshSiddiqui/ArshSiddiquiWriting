@@ -2,6 +2,7 @@
 title: Down and Out in Paris and London
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **Down and Out in Paris and London**

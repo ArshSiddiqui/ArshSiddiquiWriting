@@ -2,6 +2,7 @@
 title: The Mysterious Flame of Queen Loana
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **The Mysterious Flame of Queen Loana**

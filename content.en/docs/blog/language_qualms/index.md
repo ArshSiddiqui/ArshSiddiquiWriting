@@ -1,6 +1,7 @@
 ---
 title: Qualms with Fashion as Language
 type: docs
+bookHidden: true
 ---
 
 # **Qualms with Fashion as Language**

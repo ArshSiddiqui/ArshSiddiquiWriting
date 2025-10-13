@@ -1,6 +1,7 @@
 ---
 title: Quality is Worth it
 type: docs
+bookHidden: true
 ---
 
 # Quality is Worth it 

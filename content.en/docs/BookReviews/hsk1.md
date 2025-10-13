@@ -2,6 +2,7 @@
 title: HSK 1
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Standard Course HSK1 - 汉语水平考试

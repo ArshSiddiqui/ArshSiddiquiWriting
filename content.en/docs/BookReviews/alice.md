@@ -2,6 +2,7 @@
 title: Alice's Adventures in Wonderland and Through the Looking Glass
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Alice's Adventures in Wonderland and Through the Looking Glass

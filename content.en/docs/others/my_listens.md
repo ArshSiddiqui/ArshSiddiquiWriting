@@ -1,6 +1,7 @@
 ---
 title: My Listens
 type: docs
+bookHidden: true
 ---
 
 # **My Listens**

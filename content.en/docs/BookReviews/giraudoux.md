@@ -2,6 +2,7 @@
 title: Giraudoux
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **The Madwoman of Bellac and The Apollo of Bellac**

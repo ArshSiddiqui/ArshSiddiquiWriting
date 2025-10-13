@@ -1,6 +1,7 @@
 ---
 title: The Value in Feeling Clothes
 type: docs
+bookHidden: true
 ---
 
 # **The Value in Feeling Clothes**

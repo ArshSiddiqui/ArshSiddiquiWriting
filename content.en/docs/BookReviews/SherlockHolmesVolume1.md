@@ -2,6 +2,7 @@
 title: Sherlock Holmes The Complete Novels and Stories, Volume I
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Sherlock Holmes: The Complete Novels and Stories, Volume I  

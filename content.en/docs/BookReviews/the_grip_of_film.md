@@ -2,6 +2,7 @@
 title: The Grip of Film
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Grip of Film

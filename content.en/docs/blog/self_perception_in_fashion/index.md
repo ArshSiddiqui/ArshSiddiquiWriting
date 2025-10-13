@@ -1,6 +1,7 @@
 ---
 title: Self-Perception in Fashion
 type: docs
+bookHidden: true
 ---
 
 # Self-Perception in Fashion: Why Dress?

@@ -2,6 +2,7 @@
 title: Crying In H Mart
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Crying In H Mart  

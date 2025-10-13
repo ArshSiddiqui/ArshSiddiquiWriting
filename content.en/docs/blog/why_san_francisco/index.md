@@ -1,6 +1,7 @@
 ---
 title: Why San Francisco?
 type: docs
+bookHidden: true
 ---
 
 # Why San Francisco?

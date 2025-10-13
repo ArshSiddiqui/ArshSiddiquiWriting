@@ -2,6 +2,7 @@
 title: Ametora
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **Ametora: How Japan Saved American Style**

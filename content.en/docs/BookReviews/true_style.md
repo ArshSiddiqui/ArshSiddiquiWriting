@@ -2,6 +2,7 @@
 title: True Style
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # True Style: The History and Principles of Classic Menswear 

@@ -2,6 +2,7 @@
 title: The KLF
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **The KLF: Chaos, Magic, and the Band Who Burned a Million Pounds**

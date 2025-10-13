@@ -2,6 +2,7 @@
 title: Death of a Salesman
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Death of a Salesman

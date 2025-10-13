@@ -2,6 +2,7 @@
 title: On Tyranny
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **On Tyranny: Twenty Lessons from the Twentieth Century**

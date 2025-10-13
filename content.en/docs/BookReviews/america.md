@@ -2,6 +2,7 @@
 title: America Again
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # America Again: Rebecoming the greatness we never weren't  

@@ -1,6 +1,7 @@
 ---
 title: Thoughts on Trend Cycles
 type: docs
+bookHidden: true
 ---
 
 # Thoughts on Trend Cycles

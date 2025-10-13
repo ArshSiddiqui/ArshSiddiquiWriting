@@ -2,6 +2,7 @@
 title: The Stranger
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **The Stranger**

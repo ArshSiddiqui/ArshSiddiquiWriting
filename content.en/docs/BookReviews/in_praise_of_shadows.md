@@ -2,6 +2,7 @@
 title: In Praise of Shadows
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # In Praise of Shadows

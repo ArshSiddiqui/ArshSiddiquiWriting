@@ -2,6 +2,7 @@
 title: A Gentleman in Moscow
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # A Gentleman in Moscow

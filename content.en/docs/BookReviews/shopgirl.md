@@ -2,6 +2,7 @@
 title: Shopgirl
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Shopgirl

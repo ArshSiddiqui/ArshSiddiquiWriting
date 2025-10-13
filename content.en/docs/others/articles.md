@@ -1,6 +1,7 @@
 ---
 title: The Best Articles I Have Read
 type: docs
+bookHidden: true
 ---
 
 # **The Best Articles I Have Read**

@@ -1,5 +1,4 @@
 ---
-bookCollapseSection: true
 title: Others
 type: docs
 ---

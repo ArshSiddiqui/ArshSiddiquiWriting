@@ -1,6 +1,4 @@
 ---
-bookFlatSection: false
-bookCollapseSection: true
 title: Book Reviews
 type: docs
 weight: 2

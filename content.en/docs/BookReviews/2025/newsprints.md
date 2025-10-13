@@ -2,6 +2,7 @@
 title: NewsPrints
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **NewsPrints**

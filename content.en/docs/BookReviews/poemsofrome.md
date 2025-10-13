@@ -2,6 +2,7 @@
 title: Poems of Rome
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Poems of Rome

@@ -1,6 +1,7 @@
 ---
 title: Other Websites
 type: docs
+bookHidden: true
 ---
 
 # **Other Websites**

@@ -1,6 +1,7 @@
 ---
 title: This Latter Interest
 type: docs
+bookHidden: true
 ---
 
 # This Latter Interest

@@ -2,6 +2,7 @@
 title: If on a Winter's Night a Traveler
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # If on a Winter's Night a Traveler 

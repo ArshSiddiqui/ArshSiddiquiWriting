@@ -2,6 +2,7 @@
 title: The Hound of The Baskervilles
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Hound of The Baskervilles

@@ -2,6 +2,7 @@
 title: Everyman
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Everyman

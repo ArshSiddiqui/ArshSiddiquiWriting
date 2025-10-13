@@ -2,6 +2,7 @@
 title: Kitchen Confidential
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Kitchen Confidential: Adventures in the Culinary Underbelly  

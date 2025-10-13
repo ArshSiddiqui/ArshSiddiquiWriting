@@ -2,6 +2,7 @@
 title: The Count of Monte Cristo
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Count of Monte Cristo

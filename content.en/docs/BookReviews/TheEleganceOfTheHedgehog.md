@@ -2,6 +2,7 @@
 title: The Elegance of the Hedgehog
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Elegance of the Hedgehog

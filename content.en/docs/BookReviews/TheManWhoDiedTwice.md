@@ -2,6 +2,7 @@
 title: The Man Who Died Twice
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Man Who Died Twice

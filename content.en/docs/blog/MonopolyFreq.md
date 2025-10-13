@@ -2,6 +2,7 @@
 title: Monopoly Frequency
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # What squares are landed on the most in Monopoly?

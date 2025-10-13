@@ -2,6 +2,7 @@
 title: The Murder of Roger Ackroyd
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Murder of Roger Ackroyd  

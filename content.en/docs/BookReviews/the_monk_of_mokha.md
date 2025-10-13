@@ -2,6 +2,7 @@
 title: The Monk of Mokha
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Monk of Mokha

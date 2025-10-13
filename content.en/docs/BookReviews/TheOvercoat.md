@@ -2,6 +2,7 @@
 title: The Overcoat and Other Short Stories
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Overcoat and Other Short Stories

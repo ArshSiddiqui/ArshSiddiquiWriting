@@ -2,6 +2,7 @@
 title: New York Stories
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # New York Stories

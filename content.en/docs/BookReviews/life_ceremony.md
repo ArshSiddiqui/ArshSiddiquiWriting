@@ -2,6 +2,7 @@
 title: Life Ceremony
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **Life Ceremony**

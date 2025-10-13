@@ -2,6 +2,7 @@
 title: The Way to the Spring
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **The Way to the Spring**

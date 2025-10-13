@@ -2,6 +2,7 @@
 title: Hard-Boiled Wonderland and the End of the World
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **Hard-Boiled Wonderland and the End of the World**

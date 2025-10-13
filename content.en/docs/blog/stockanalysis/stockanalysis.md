@@ -2,6 +2,7 @@
 title: Stock Analysis
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Stock Analysis

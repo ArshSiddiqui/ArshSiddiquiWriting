@@ -1,6 +1,7 @@
 ---
 title: I Want To Flow Like Water
 type: docs
+bookHidden: true
 ---
 
 # I Want To Flow Like Water: Alaïa Spring/Summer 2025

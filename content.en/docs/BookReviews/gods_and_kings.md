@@ -2,6 +2,7 @@
 title: Gods and Kings
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **Gods and Kings: The Rise and Fall of Alexander McQueen and John Galliano**

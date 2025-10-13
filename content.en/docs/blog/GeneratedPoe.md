@@ -2,6 +2,7 @@
 title: Generated Poe-try
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Edgar Allen Poe-try

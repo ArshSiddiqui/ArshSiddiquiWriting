@@ -2,6 +2,7 @@
 title: Emergent Tokyo
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **Emergent Tokyo: Designing the Spontaneous City**

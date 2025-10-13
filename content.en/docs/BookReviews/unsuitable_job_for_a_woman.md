@@ -2,6 +2,7 @@
 title: An Unsuitable Job for a Woman
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # An Unsuitable Job for a Woman

@@ -2,6 +2,7 @@
 title: A Tale of Two Cities
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # A Tale of Two Cities

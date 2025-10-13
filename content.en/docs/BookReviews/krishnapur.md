@@ -2,6 +2,7 @@
 title: The Seige of Krishnapur
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **The Seige of Krishnapur**

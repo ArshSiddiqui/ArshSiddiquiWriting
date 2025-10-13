@@ -2,6 +2,7 @@
 title: Rouge Street
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Rouge Street  

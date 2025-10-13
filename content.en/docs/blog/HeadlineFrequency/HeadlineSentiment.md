@@ -2,6 +2,7 @@
 title: Headline Sentiment
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Headline Sentiment

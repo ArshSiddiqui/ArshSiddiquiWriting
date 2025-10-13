@@ -2,6 +2,7 @@
 title: A Farewell to Arms
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # A Farewell to Arms

@@ -2,6 +2,7 @@
 title: Romeo and Julliet
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Romeo and Julliet

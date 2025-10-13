@@ -2,6 +2,7 @@
 title: Murder on the Orient Express
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Murder on the Orient Express

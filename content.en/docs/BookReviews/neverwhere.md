@@ -2,6 +2,7 @@
 title: Neverwhere
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Neverwhere

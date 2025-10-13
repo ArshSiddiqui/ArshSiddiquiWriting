@@ -2,6 +2,7 @@
 title: The Shadow of the Wind
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Shadow of the Wind

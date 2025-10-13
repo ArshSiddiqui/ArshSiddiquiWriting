@@ -2,6 +2,7 @@
 title: The Martian Chronicles
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Martian Chronicles

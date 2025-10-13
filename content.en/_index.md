@@ -14,3 +14,7 @@ type: docs
 ## About Me
 
 Hello! My name is Arsh Siddiqui and I am a software engineer currently living in Reston, VA and working in Richmond, VA. I graduated from Virginia Tech with a major in Computer Science with a minor in Economics. I was also an undergraduate research assistant who had worked with Audio Augmented Reality and art gallery experiences.
+
+## Recent Writings
+
+[The Value in Feeling Clothes](docs/blog/2025/09/23/)

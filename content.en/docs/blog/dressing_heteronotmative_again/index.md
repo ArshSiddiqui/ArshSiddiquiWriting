@@ -1,6 +1,7 @@
 ---
 title: Dressing Heteronormative Again 
 type: docs
+bookHidden: true
 ---
 
 # Dressing Heteronormative Again 

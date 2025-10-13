@@ -1,5 +1,4 @@
 ---
-bookCollapseSection: true
 title: Blog
 type: docs
 weight: 1

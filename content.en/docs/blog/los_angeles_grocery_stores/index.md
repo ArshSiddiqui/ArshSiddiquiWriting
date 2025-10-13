@@ -2,6 +2,7 @@
 title: Grocery Stores in Los Angeles
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **Grocery Stores in Los Angeles**

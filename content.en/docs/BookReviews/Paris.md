@@ -2,6 +2,7 @@
 title: Paris
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Paris

@@ -2,6 +2,7 @@
 title: Ultimate French
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Ultimate French Beginner-Intermediate

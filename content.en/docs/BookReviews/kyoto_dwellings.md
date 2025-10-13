@@ -2,6 +2,7 @@
 title: Kyoto-Dwelling
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Kyoto-Dwelling: A Year of Brief Poems

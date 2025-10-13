@@ -2,6 +2,7 @@
 title: Tell Them of Battles, Kings and Elephants
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Tell Them of Battles, Kings and Elephants

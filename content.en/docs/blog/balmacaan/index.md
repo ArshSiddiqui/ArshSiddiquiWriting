@@ -1,6 +1,7 @@
 ---
 title: The Balmacaan
 type: docs
+bookHidden: true
 ---
 
 # **Big Fan of the Balmacaan**

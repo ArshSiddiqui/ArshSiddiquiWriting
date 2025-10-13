@@ -2,6 +2,7 @@
 title: The Learners
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Learners

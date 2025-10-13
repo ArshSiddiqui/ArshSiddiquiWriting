@@ -2,6 +2,7 @@
 title: Flâneuse
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **Flâneuse**

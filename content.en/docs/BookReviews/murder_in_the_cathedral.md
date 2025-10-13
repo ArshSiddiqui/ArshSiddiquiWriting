@@ -2,6 +2,7 @@
 title: Murder in the Cathedral 
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Murder in the Cathedral

@@ -2,6 +2,7 @@
 title: Watch Us Dance
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Watch Us Dance

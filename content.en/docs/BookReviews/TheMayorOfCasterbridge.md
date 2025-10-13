@@ -2,6 +2,7 @@
 title: The Mayor of Casterbridge
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Mayor of Casterbridge

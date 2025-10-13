@@ -2,6 +2,7 @@
 title: Montreal Air Pollution Analysis
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Montreal Air Pollution Analysis

@@ -1,6 +1,7 @@
 ---
 title: The Best Short Stories I Have Read
 type: docs
+bookHidden: true
 ---
 
 # **The Best Short Stories I Have Read**

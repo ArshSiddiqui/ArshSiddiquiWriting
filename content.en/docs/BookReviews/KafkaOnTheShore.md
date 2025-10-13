@@ -2,6 +2,7 @@
 title: Kafka on the Shore
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # Kafka on the Shore

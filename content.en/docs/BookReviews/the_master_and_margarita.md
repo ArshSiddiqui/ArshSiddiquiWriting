@@ -2,6 +2,7 @@
 title: The Master and Margarita
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # The Master and Margarita

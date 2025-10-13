@@ -2,6 +2,7 @@
 title: For Whom The Bell Tolls
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # For Whom The Bell Tolls

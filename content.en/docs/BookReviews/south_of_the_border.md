@@ -2,6 +2,7 @@
 title: South of the Border, West of the Sun
 type: docs
 weight: 10
+bookHidden: true
 ---
 
 # **South of the Border, West of the Sun**

@@ -1,6 +1,7 @@
 ---
 title: The Dangers of a Hyper-Niche Base
 type: docs
+bookHidden: true
 ---
 
 # The Dangers of a Hyper-Niche Base
