@@ -17,4 +17,10 @@ Hello! My name is Arsh Siddiqui and I am a software engineer currently living in
 
 ## Recent Writings
 
-[The Value in Feeling Clothes](docs/blog/2025/09/23/)
+[The Value in Feeling Clothes](docs/blog/2025/09/23/) <span style="float: right">September 23</span>
+
+[NewsPrints](docs/bookreviews/2025/newsprints) <span style="float: right">September 23</span>
+
+[Hard-Boiled Wonderland and the End of the World](docs/bookreviews/hardboiled) <span style="float: right">September 21</span>
+
+[Qualms with Fashion as Language](docs/blog/language_qualms) <span style="float: right">August 20</span>
