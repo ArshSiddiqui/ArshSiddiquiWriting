@@ -10,6 +10,8 @@ My thoughts on the most random and unconnected of things. Some of these are tech
 
 ## 2025
 ___
+[Why do Some Influencer Brands Annoy Me?](./2025/10/24) <span style="float: right">October 26</span>
+
 [The Value in Feeling Clothes](./2025/09/23) <span style="float: right">September 23</span>
 
 [Qualms with Fashion as Language](./language_qualms) <span style="float: right">August 20</span>
