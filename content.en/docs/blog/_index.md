@@ -10,7 +10,9 @@ My thoughts on the most random and unconnected of things. Some of these are tech
 
 ## 2025
 ___
-[Why do Some Influencer Brands Annoy Me?](./2025/10/24) <span style="float: right">October 26</span>
+[Hyein Seo's Incredible Designs](./2025/11/6) <span style="float: right">November 6</span>
+
+[Why do Some Influencer Brands Annoy Me?](./2025/10/26) <span style="float: right">October 26</span>
 
 [The Value in Feeling Clothes](./2025/09/23) <span style="float: right">September 23</span>
 
