@@ -12,13 +12,19 @@ Various pictures I've taken over time. Some might be deemed acceptable.
 ___
 
 <!-- DC -->
+<figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764524791/washington_federal_triangle_2025_m8cvoz.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Federal Triangle, DC</figcaption> </figure>
+
 <figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764458788/washington_eastern_market_2025_cpazxa.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Eastern Market, DC</figcaption> </figure>
 
 <!-- Washington -->
 
+<figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764524736/seattle_pike_place_2025_yjedbu.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Pike Place, Seattle</figcaption> </figure>
+
 <figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764457707/seattle_chinatown_2025_ox20mp.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Chinatown, Seattle</figcaption> </figure>
 
 <!-- Canada -->
+
+<figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764524670/banff_sulphur_mountain_1_2025_iyefkw.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;"></figcaption> </figure>
 
 <figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764457226/banff_sulphur_mountain_2025_x5aamy.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Sulphur Mountain, Banff</figcaption> </figure>
 
@@ -114,3 +120,13 @@ ___
 <!-- Blacksburg -->
 
 <figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764458048/blacksburg_1_2023_y3ezni.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Blacksburg</figcaption> </figure>
+
+
+## 2022
+___
+
+<!-- Kashmir -->
+
+<figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764524283/kashmir_srinagar_2022_yqsx8x.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Srinagar, Kashmir</figcaption> </figure>
+
+<figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764524278/kashmir_gulmarg_2022_jsnks9.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Gulmarg, Kashmir</figcaption> </figure>
