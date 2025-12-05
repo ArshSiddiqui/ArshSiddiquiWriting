@@ -10,6 +10,8 @@ My thoughts on the most random and unconnected of things. Some of these are tech
 
 ## 2025
 ___
+[Thoughts on the Post-Trend Universe, etc](./2025/12/5) <span style="float: right">December 5</span>
+
 [Hyein Seo's Incredible Designs](./2025/11/6) <span style="float: right">November 6</span>
 
 [Why do Some Influencer Brands Annoy Me?](./2025/10/26) <span style="float: right">October 26</span>
