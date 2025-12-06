@@ -13,6 +13,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[Money: A Suicide Note]()
+
 [Dune](2025/dune)
 
 [NewsPrints](2025/newsprints)
@@ -31,9 +33,9 @@ ___
 
 [Fahrenheit 451](f451)
 
-[The Madwoman of Chaillot and The Apollo of Bellac](giraudoux)
-
 </td><td width="50%" style="vertical-align: top; border-color: transparent">
+
+[The Madwoman of Chaillot and The Apollo of Bellac](giraudoux)
 
 [Ametora: How Japan Saved American Style](/bookreviews/ametora)
 
