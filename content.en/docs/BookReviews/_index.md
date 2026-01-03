@@ -9,6 +9,17 @@ weight: 2
 All the books I have read. The books I have reviews for are adapted from my Goodreads. I intend to save them here, out of
 precaution, due to saving issues I've had on Goodreads in the past.
 
+## 2026
+___
+<table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
+
+[Society of the Spectacle]()
+
+</td><td width="50%" style="vertical-align: top; border-color: transparent">
+
+</td></tr></table>
+
+
 ## 2025
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
