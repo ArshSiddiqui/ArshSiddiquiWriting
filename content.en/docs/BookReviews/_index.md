@@ -13,6 +13,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[Waffle House Vistas](2026/waffle_house_vistas)
+
 [Society of the Spectacle]()
 
 </td><td width="50%" style="vertical-align: top; border-color: transparent">
