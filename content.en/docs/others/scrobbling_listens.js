@@ -1,16 +1,3 @@
-// var short_term_list = new XMLHttpRequest()
-// short_term_list.open(
-//     'GET', 
-//     'https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/data/5_short_term_songs.txt',
-//     true)
-// short_term_list.onload = function () {
-//     var data = JSON.parse(this.response)
-//     data.array.forEach(element => {
-//         console.log("el", element)
-//     });
-//     console.log("data", short_term_list)
-// }
-
 async function getData() {
     const response = await fetch('https://raw.githubusercontent.com/ArshSiddiqui/arshsiddiqui.github.io/main/last_week_scrobble.json');
     const data = await response.json();
@@ -108,5 +95,3 @@ getMonthData();
 getMedData();
 getLongData();
 getOtherData();
-// var Spotify = require("spotify-web-api.js");
-// var s = new Spotify();
