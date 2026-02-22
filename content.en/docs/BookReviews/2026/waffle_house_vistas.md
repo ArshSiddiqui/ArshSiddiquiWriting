@@ -1,5 +1,5 @@
 ---
-title: 1Q84
+title: Waffle House Vistas
 type: docs
 weight: 10
 bookHidden: true
