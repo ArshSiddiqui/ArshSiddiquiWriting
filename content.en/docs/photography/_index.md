@@ -8,6 +8,13 @@ weight: 3
 
 Various pictures I've taken over time. Some might be deemed acceptable.
 
+## 2026
+___
+
+<!-- Philadelphia -->
+<figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1771853741/philly_30th_2026_f5n3un.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">30th St. Station, Philadelphia</figcaption> </figure>
+
+
 ## 2025
 ___
 
@@ -15,6 +22,11 @@ ___
 <figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764524791/washington_federal_triangle_2025_m8cvoz.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Federal Triangle, DC</figcaption> </figure>
 
 <figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1764458788/washington_eastern_market_2025_cpazxa.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Eastern Market, DC</figcaption> </figure>
+
+<!-- NYC -->
+<figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1771853742/nyc_little_italy_2025_bfgbwq.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Little Italy, New York</figcaption> </figure>
+
+<figure> <p style="text-align:center;"><img src="https://res.cloudinary.com/dqbixqcq4/image/upload/v1771853742/nyc_fidi_2025_jk1rwd.jpg" style="width:90%; height: auto;"></p> <figcaption style="font-size: 11px; text-align:right;">Financial District, New York</figcaption> </figure>
 
 <!-- Washington -->
 
