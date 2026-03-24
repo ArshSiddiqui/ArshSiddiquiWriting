@@ -10,6 +10,11 @@ ici, par précaution,  parce que j'ai des problèmes de sauvegarde sur Goodreads
 
 &nbsp;  
 
+## 2026
+___
+
+[Vers la Beauté](2026/vers_la_beaute)
+
 ## 2025
 ___
 
