@@ -11,6 +11,8 @@ number of years. These include publications in numerous formats.
 
 ## Journals 
 ___
+Choe, M., Bond, Y. L., Hasan, B. K., Siddiqui, A., & Jeon, M. (2026). ChatGPT on the Road: Leveraging Large Language Model-Powered In-Vehicle Conversational Agents for Safer and More Enjoyable Driving Experience. International Journal of Human–Computer Interaction, 1–20. https://doi.org/10.1080/10447318.2026.2661827
+
 Dam, A., Lee, Y., Siddiqui, A., Lages, W. S., & Jeon, M. (2024).  Audio augmented reality using sonification to enhance visual art experiences: Lessons learned. International Journal of Human-Computer Studies. https://authors.elsevier.com/a/1jTNG3pfaRxOLb
 
 Won the 2025 Data Sonification award from the [Sonification Archive](https://sonification.design/)  
