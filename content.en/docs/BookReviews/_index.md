@@ -13,6 +13,8 @@ precaution, due to saving issues I've had on Goodreads in the past.
 ___
 <table style="table-layout: fixed; border-color: transparent"><tr style="border-color: transparent"><td width="50%" style="vertical-align: top; border-color: transparent">
 
+[Status and Culture]()
+
 [Towards Beauty](2026/towards_beauty)
 
 [Deluxe: How Luxury Lost Its Luster](2026/deluxe)
