@@ -42,13 +42,12 @@ It also sets up the reading of certain authors in a light I would not have consi
 Both an article about the long and ongoing search for a missing person in California's Eastern Sierra and a story about
 coming to terms with loss. When all that could possibly have gone wrong just has, what can you do?  
 
-[A Philosophy Professor's Final Class](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class?utm_source=pocket_saves)  
-I don't have much knowledge in the world of philosophy, but this article that goes through the life of Richard J.
-Bernstein and contrasts that with his final lectures was extremely engaging. It manages to tie together history with
-philosophy in a way that makes everything come alive.
 
 ## 2022
 ___
+[What does it cost to make a running shoe?](https://www.solereview.com/what-does-it-cost-to-make-a-running-shoe/)  
+My complaints are quite similar to the opening of this article, in that people tend to underestimate how expensive producing shoes and clothing are. This article gives an excellent rundown to the cost of shoe production.
+
 ["That Girl is Going to Get Herself Killed"](https://longreads.com/2022/11/15/death-in-national-parks/)  
 Moreso a warning of how dangerous the wilderness is, even for professionals. The story is pretty acurately captured
 by one of the opening lines:
@@ -61,9 +60,9 @@ This articles captures a lot of my feelings and sentiments about dress codes, an
 "don't have a dress code". I am generally someone who either dresses too formally or too *fashion*, so this did 
 resonate with me.  
 
-[Robert Pattinson: A Dispatch From Isolation](https://www.gq.com/story/robert-pattinson-on-batman-tenet-isolation-june-cover)  
-I don't generally read a lot of articles about celebrities, but this was recommended to me and ended up being so funny
-I couldn't help but enjoy it. It really is the mind of a manic.  
+[What is the Measure of a Good Company?](https://www.acontinuouslean.com/2020/07/08/what-is-the-measure-of-a-good-company/)  
+Brooks Brothers going into bankruptcy was quite heavy for many American menswear enthusiasts, this blog post discusses it and what the author felt went wrong in recent history for Brooks.
+
 
 ## 2016
 ___
